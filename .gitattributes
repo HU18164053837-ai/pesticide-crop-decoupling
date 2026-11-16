@@ -1,0 +1,2 @@
+# Frozen source hashes are byte-based; do not convert line endings on checkout.
+* -text

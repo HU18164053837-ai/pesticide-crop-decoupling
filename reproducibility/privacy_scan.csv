@@ -1,4 +1,7 @@
 ﻿file,check,hits,status
+.gitattributes,local_absolute_path,0,PASS
+.gitattributes,account_or_machine_name,0,PASS
+.gitattributes,token,0,PASS
 .gitignore,local_absolute_path,0,PASS
 .gitignore,account_or_machine_name,0,PASS
 .gitignore,token,0,PASS
