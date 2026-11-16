@@ -1,0 +1,10 @@
+{
+  "python": "3.12.14",
+  "venv_isolated_mode": true,
+  "dependency_method": "Physically copied historical scientific distributions into a new venv;no PYTHONPATH",
+  "clean_directory_replay": true,
+  "package_index_install_tested": false,
+  "database_downloads": 0,
+  "new_specifications": 0,
+  "figure_redraws": 0
+}

@@ -1,0 +1,16 @@
+﻿from_state,to_state,n,row_probability
+absolute,absolute,55,0.3216374269005848
+absolute,coupled_or_other,95,0.5555555555555556
+absolute,relative,21,0.12280701754385964
+coupled_or_other,absolute,86,0.18818380743982493
+coupled_or_other,coupled_or_other,319,0.6980306345733042
+coupled_or_other,relative,51,0.11159737417943107
+coupled_or_other,undetermined,1,0.002188183807439825
+relative,absolute,16,0.14545454545454545
+relative,coupled_or_other,56,0.509090909090909
+relative,relative,37,0.33636363636363636
+relative,undetermined,1,0.00909090909090909
+undetermined,absolute,11,0.23404255319148937
+undetermined,coupled_or_other,12,0.2553191489361702
+undetermined,relative,4,0.0851063829787234
+undetermined,undetermined,20,0.425531914893617

@@ -1,0 +1,43 @@
+﻿region,income,proxy_note,comparisons,countries
+East Asia & Pacific,High income,not_coded_no_claim_of_direct_use,29,5
+East Asia & Pacific,High income,sales_including_nonag,6,1
+East Asia & Pacific,High income,sales_including_turf_forest,6,1
+East Asia & Pacific,Lower middle income,not_coded_no_claim_of_direct_use,24,4
+East Asia & Pacific,Upper middle income,imports,12,2
+East Asia & Pacific,Upper middle income,not_coded_no_claim_of_direct_use,36,6
+East Asia & Pacific,Upper middle income,retrospective_AI_revision_2022,6,1
+Europe & Central Asia,High income,not_coded_no_claim_of_direct_use,138,24
+Europe & Central Asia,High income,sales,18,3
+Europe & Central Asia,High income,sales_including_forestry_gardens_CO2,6,1
+Europe & Central Asia,High income,sales_including_nonag,10,2
+Europe & Central Asia,High income,sales_with_territory_overlap,6,1
+Europe & Central Asia,Lower middle income,not_coded_no_claim_of_direct_use,9,2
+Europe & Central Asia,Upper middle income,netimports,5,1
+Europe & Central Asia,Upper middle income,not_coded_no_claim_of_direct_use,62,12
+Latin America & Caribbean,High income,netimports,6,1
+Latin America & Caribbean,High income,not_coded_no_claim_of_direct_use,48,8
+Latin America & Caribbean,Lower middle income,imports,6,1
+Latin America & Caribbean,Lower middle income,not_coded_no_claim_of_direct_use,16,3
+Latin America & Caribbean,Upper middle income,imports,12,2
+Latin America & Caribbean,Upper middle income,imports_or_sales,6,1
+Latin America & Caribbean,Upper middle income,imports_plus_production,6,1
+Latin America & Caribbean,Upper middle income,not_coded_no_claim_of_direct_use,54,9
+Latin America & Caribbean,Upper middle income,production_netimports_then_sales,6,1
+Latin America & Caribbean,Upper middle income,sales,6,1
+"Middle East, North Africa, Afghanistan & Pakistan",High income,not_coded_no_claim_of_direct_use,36,6
+"Middle East, North Africa, Afghanistan & Pakistan",Low income,not_coded_no_claim_of_direct_use,6,1
+"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,imports,6,1
+"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,not_coded_no_claim_of_direct_use,29,5
+"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,not_coded_no_claim_of_direct_use,15,3
+"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,sales,6,1
+North America,High income,not_coded_no_claim_of_direct_use,6,1
+North America,High income,sales,6,1
+Not classified in WDI,Not classified in WDI,not_coded_no_claim_of_direct_use,6,1
+South Asia,Lower middle income,not_coded_no_claim_of_direct_use,24,4
+South Asia,Upper middle income,not_coded_no_claim_of_direct_use,10,2
+Sub-Saharan Africa,High income,not_coded_no_claim_of_direct_use,6,1
+Sub-Saharan Africa,Low income,imports,12,2
+Sub-Saharan Africa,Low income,not_coded_no_claim_of_direct_use,73,14
+Sub-Saharan Africa,Lower middle income,not_coded_no_claim_of_direct_use,83,15
+Sub-Saharan Africa,Upper middle income,imports,6,1
+Sub-Saharan Africa,Upper middle income,not_coded_no_claim_of_direct_use,24,4

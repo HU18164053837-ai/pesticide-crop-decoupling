@@ -1,0 +1,5 @@
+﻿design,min_run,eligible_countries,countries_with_run,rate,eligible_windows
+adjacent_changes,2,157,40,0.25477707006369427,736
+adjacent_changes,3,155,10,0.06451612903225806,579
+separated_pairs_offset0,2,152,12,0.07894736842105263,281
+separated_pairs_offset1,2,155,10,0.06451612903225806,298

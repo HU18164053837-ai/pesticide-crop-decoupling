@@ -1,0 +1,32 @@
+[
+  {
+    "archive": "pesticide-decoupling_phase1.zip",
+    "sha256": "2bbaa5f774f28cd06a51d0c29b54ebd37dfbc774f74d8dd50a2bc6298b89d8dc",
+    "entries": 142,
+    "uploaded": false
+  },
+  {
+    "archive": "pesticide-decoupling_phase2.zip",
+    "sha256": "c45c0334b6094d7111fd9fe2785d9d753a51a74965b44856f9f690ec72d915e4",
+    "entries": 117,
+    "uploaded": false
+  },
+  {
+    "archive": "pesticide-decoupling_phase3.zip",
+    "sha256": "018062d818f977f19b188966fbc0c34130de7cebf47a06f5f779d4cb545812d0",
+    "entries": 124,
+    "uploaded": false
+  },
+  {
+    "archive": "pesticide-decoupling_phase3_1.zip",
+    "sha256": "90f51bd80f4d8d3bccedb3d10640e1d8184112f039a9cfd5d8c3ff87c7c42a5d",
+    "entries": 146,
+    "uploaded": false
+  },
+  {
+    "archive": "pesticide-decoupling_Submission_Candidate_v1.0.zip",
+    "sha256": "bec9b1bcd2fbfc9721ead198969f232bf3df1e57e0fc647dc5e0e79067b58007",
+    "entries": 145,
+    "uploaded": false
+  }
+]

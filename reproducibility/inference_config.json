@@ -1,0 +1,6 @@
+{
+  "seed": 20261106,
+  "bootstrap_replicates": 4000,
+  "ci": "country-cluster percentile95; minimum20countries",
+  "note": "No ecological risk or causal mechanism inference"
+}

@@ -1,0 +1,29 @@
+﻿iso3,change_year,kind,evidence_summary,source,coding
+AUS,2018,coverage_revision,Current time series ends 2017 pending revision; new country information suggests much higher values.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+AUT,2011,classification,Harmonized classification; safeners/synergists/waxes previously included.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+BEL,2007,collection,Country explicitly states before and after 2007 are not strictly comparable.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+BGR,2016,collection,Data collection methodology changed starting 2016.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+CAN,2006,source,Sales sources and estimation approaches change; overlaps between classes possible.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+CAN,2008,source,Sales report source changes; not strictly comparable across all years.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+COL,2001,proxy,From 2001 production plus imports minus exports.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+COL,2014,sample,Fungicide sample size increased alongside reported production.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+COL,2019,collection,Pesticide group totals changed due to collection and processing methodology.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+COL,2023,proxy,2023 refers to pesticide sales.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+CYP,2011,proxy,From industry/import sources to sales statistics.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+CYP,2016,collection,Time series break due to change in surveyed items.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+EST,1997,coverage,Private farms added to enterprises in use data.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+EST,2002,classification,Seed treatment merged with major groups.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+FRA,2008,classification,Mineral oils/nematicides categories reallocated after 2007.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+FRA,2011,territory,"Includes French Guiana, Guadeloupe, Martinique and Reunion.",data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+DEU,2011,classification,Some seed-treatment substances reclassified.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+DEU,2014,classification,Refined seed-treatment calculation; earlier values not directly comparable.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+DEU,2015,classification,Seed treatment merged into insecticides.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+DEU,2016,classification,Storage protection inert gases included in insecticides; carbon dioxide substantial.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+HUN,2011,AI_conversion,From fixed formulated-product concentration to product-specific concentration.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+ISL,2009,proxy,Sales series changes to imports.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+IRL,2015,classification,Seed treatments merged into insecticides/fungicides.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+LVA,2016,collection,Break due to collection methodology change.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+LTU,2012,classification,Seed treatment merged into main groups.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+MEX,2021,AI_conversion,Country applied global AI conversion factors after FAO-converted series through 2020.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+NLD,2011,classification,Sales according to EU Annex III classification.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive
+NZL,2002,source,OECD sales including non-agricultural uses.,data/raw/RP_country_notes.pdf (July 2026),selected explicitly documented changes; non-exhaustive

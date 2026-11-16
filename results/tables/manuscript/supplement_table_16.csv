@@ -1,0 +1,4 @@
+﻿Baseline term,Coefficient,Cluster SE,95% interval,p
+ln_gdppc0,0.1762,0.2992,"[-0.4254, 0.7778]",0.5588
+ln_cropland0,-0.8496,0.3028,"[-1.4585, -0.2407]",0.0072
+ln_crop_intensity0,-0.2107,0.2774,"[-0.7685, 0.3470]",0.4512

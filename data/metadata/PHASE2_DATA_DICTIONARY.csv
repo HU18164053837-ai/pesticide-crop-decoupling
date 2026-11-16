@@ -1,0 +1,39 @@
+﻿variable_or_pattern,unit,definition
+id,comparison identifier,ISO3_previousStart_currentStart_width
+previous_start/previous_end,calendar years,Prior group inclusive year range
+period_start/period_end,calendar years,Current group inclusive year range
+state,categorical,"absolute/relative/coupled_or_other/undetermined, using all P/Y joint-support years"
+common_state,categorical,Same classification recomputed using years with all H/I/F/P/Y observed
+support_years0/1,semicolon separated years,"Actual P/Y support, no filled years"
+common_support0/1,semicolon separated years,"Common H/I/F/P/Y support, no filled years"
+p_kg0/p_kg1,kg active ingredients,P/Y-supported mean pesticide total in prior/current group
+y0/y1,constant2014-2016 USD or alternative index,Mean crop output; main=QV2041/58
+cp0/cp1,kg active ingredients,Common-HIF-supported mean pesticide total
+cy0/cy1,constant2014-2016 USD or alternative index,Common-HIF-supported mean crop output
+gp/gy,fractional growth,Current/prior minus1; no growth if priorP<=0 or output invalid
+cgp/cgy,fractional growth,Growth on common HIF support
+herbicide_kg0/1 etc.,kg active ingredients,Class means on the SAME common years as cp/cy
+*_own0/own1,kg active ingredients,Means on each own class/P/Y support; may differ from all-HIF support; never imputed
+*_delta_t,tonnes active ingredients,"Current class mean minus prior mean, divided1000"
+*_growth,fraction,"Class current/prior minus1, undefined at zero prior"
+*_share_pp,percentage points,100*(class1/total1-class0/total0) on common support
+*_delta_over_P0,fraction of baseline total,Signed class increment / cp0
+any_increase,boolean,Any common-support H/I/F increment strictly>0
+any_gt5/any_gt10,boolean or missing,"Any class growth>5%/10%, only if all three class baselines>0; otherwise missing"
+any_zero_entry,boolean,"Any class baseline0 and current>0, separately reported"
+max_increment_over_P0,fraction,Largest nonnegative individual class increment / cp0
+positive_increment_over_P0,fraction,Sum of nonnegative H/I/F increments / cp0
+substantial_gt1pctP0/substantial_gt5pctP0,boolean,"Largest individual increment exceeds1%/5% of baseline total, descriptive threshold"
+class_coverage0/1,fraction,H+I+F as fraction of reported total; can slightly exceed1 due to rounding or inconsistency
+residual0_t/residual1_t,tonnes,Total minus H/I/F in each mean group; not named other pesticide
+national_A_share,fraction,"A share over all available1990–2024P records; sample tier, NOT a predetermined causal covariate"
+p_A_share0/1 etc.,fraction of records,Equal-record flag fractions within prior/current P/Y support
+known_break,boolean,Selected documented country-note event falls in compared interval; partial audit only
+proxy_note,categorical text,"Selected sales/import/measurement note; uncoded means unknown, not direct field use"
+estimate/ci_low/ci_high,fraction unless table says coefficient,Country-cluster percentile95%; B4000 seed20261106; no CI if fewer20clusters
+events,count or sum,"For binary event rows,count; country-average estimand sums country rates and is not an event count"
+n/countries,counts,Actual observations and unique ISO clusters AFTER event/weight missingness filtering
+ln_gdppc0/ln_cropland0,log arithmetic mean,"Logs of prior-group mean real GDPpc/cropland, not means of annual logs"
+ln_crop_intensity0,log ratio of means,"log(prior mean crop output/prior mean cropland); shares baselineY with classification, association only"
+cereal_share0_10pp/vegfruit_share0_10pp,10percentage-point units,"Prior arithmetic mean of annual constant-price value shares, divided0.1"
+coefficient/cluster_se,probability units,"FE-LPM slope; country-cluster finite correction, t(G-1) interval; not a causal effect"

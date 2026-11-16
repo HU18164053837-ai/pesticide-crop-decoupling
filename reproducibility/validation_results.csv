@@ -1,0 +1,749 @@
+﻿check,observed,expected,kind,status
+reporting_entities,157,157,recomputed,PASS
+joint_country_years,5251,5251,recomputed,PASS
+comparisons,893,893,recomputed,PASS
+absolute,200,200,recomputed,PASS
+relative,133,133,recomputed,PASS
+common_absolute,189,189,recomputed,PASS
+any_class_increase,102,102,recomputed,PASS
+class_gt1pctP0,80,80,recomputed,PASS
+bilateral1pct_n,172,172,recomputed,PASS
+bilateral1pct_k,72,72,recomputed,PASS
+comparator_n,122,122,recomputed,PASS
+comparator_k,35,35,recomputed,PASS
+crop_value,0.15630935391918527,0.15630935391918524,recomputed,PASS
+crop_value_exclude_CHN,0.3115824298717757,0.31158242987177565,recomputed,PASS
+pesticide_mass,0.31307237832474316,0.31307237832474316,recomputed,PASS
+transition_cells,15,15,recomputed,PASS
+matrix_count absolute absolute,55,55,recomputed,PASS
+matrix_probability absolute absolute,0.3216374269005848,0.3216374269005848,recomputed,PASS
+matrix_count absolute coupled_or_other,95,95,recomputed,PASS
+matrix_probability absolute coupled_or_other,0.5555555555555556,0.5555555555555556,recomputed,PASS
+matrix_count absolute relative,21,21,recomputed,PASS
+matrix_probability absolute relative,0.12280701754385964,0.12280701754385964,recomputed,PASS
+matrix_count coupled_or_other absolute,86,86,recomputed,PASS
+matrix_probability coupled_or_other absolute,0.18818380743982493,0.18818380743982493,recomputed,PASS
+matrix_count coupled_or_other coupled_or_other,319,319,recomputed,PASS
+matrix_probability coupled_or_other coupled_or_other,0.6980306345733042,0.6980306345733042,recomputed,PASS
+matrix_count coupled_or_other relative,51,51,recomputed,PASS
+matrix_probability coupled_or_other relative,0.11159737417943107,0.11159737417943107,recomputed,PASS
+matrix_count coupled_or_other undetermined,1,1,recomputed,PASS
+matrix_probability coupled_or_other undetermined,0.002188183807439825,0.002188183807439825,recomputed,PASS
+matrix_count relative absolute,16,16,recomputed,PASS
+matrix_probability relative absolute,0.14545454545454545,0.14545454545454545,recomputed,PASS
+matrix_count relative coupled_or_other,56,56,recomputed,PASS
+matrix_probability relative coupled_or_other,0.509090909090909,0.509090909090909,recomputed,PASS
+matrix_count relative relative,37,37,recomputed,PASS
+matrix_probability relative relative,0.33636363636363636,0.33636363636363636,recomputed,PASS
+matrix_count relative undetermined,1,1,recomputed,PASS
+matrix_probability relative undetermined,0.00909090909090909,0.00909090909090909,recomputed,PASS
+matrix_count undetermined absolute,11,11,recomputed,PASS
+matrix_probability undetermined absolute,0.23404255319148937,0.23404255319148937,recomputed,PASS
+matrix_count undetermined coupled_or_other,12,12,recomputed,PASS
+matrix_probability undetermined coupled_or_other,0.2553191489361702,0.2553191489361702,recomputed,PASS
+matrix_count undetermined relative,4,4,recomputed,PASS
+matrix_probability undetermined relative,0.0851063829787234,0.0851063829787234,recomputed,PASS
+matrix_count undetermined undetermined,20,20,recomputed,PASS
+matrix_probability undetermined undetermined,0.425531914893617,0.425531914893617,recomputed,PASS
+continuation_denominator,171,171,recomputed,PASS
+continuation_events,55,55,recomputed,PASS
+absolute_class_flag_composition.csv shape,"(189, 7)","(189, 7)",replayed_table,PASS
+absolute_class_flag_composition.csv columns,"['id', 'iso3', 'period_start', 'class_A_share0', 'class_AX_share0', 'class_A_share1', 'class_AX_share1']","['id', 'iso3', 'period_start', 'class_A_share0', 'class_AX_share0', 'class_A_share1', 'class_AX_share1']",replayed_table,PASS
+absolute_class_flag_composition.csv id exact_match,True,True,replayed_table,PASS
+absolute_class_flag_composition.csv iso3 exact_match,True,True,replayed_table,PASS
+absolute_class_flag_composition.csv period_start numeric_match,True,True,replayed_table,PASS
+absolute_class_flag_composition.csv class_A_share0 numeric_match,True,True,replayed_table,PASS
+absolute_class_flag_composition.csv class_AX_share0 numeric_match,True,True,replayed_table,PASS
+absolute_class_flag_composition.csv class_A_share1 numeric_match,True,True,replayed_table,PASS
+absolute_class_flag_composition.csv class_AX_share1 numeric_match,True,True,replayed_table,PASS
+absolute_continuation_by_quality.csv shape,"(5, 7)","(5, 7)",replayed_table,PASS
+absolute_continuation_by_quality.csv columns,"['sample', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']","['sample', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']",replayed_table,PASS
+absolute_continuation_by_quality.csv sample exact_match,True,True,replayed_table,PASS
+absolute_continuation_by_quality.csv n numeric_match,True,True,replayed_table,PASS
+absolute_continuation_by_quality.csv countries numeric_match,True,True,replayed_table,PASS
+absolute_continuation_by_quality.csv events numeric_match,True,True,replayed_table,PASS
+absolute_continuation_by_quality.csv estimate numeric_match,True,True,replayed_table,PASS
+absolute_continuation_by_quality.csv ci_low numeric_match,True,True,replayed_table,PASS
+absolute_continuation_by_quality.csv ci_high numeric_match,True,True,replayed_table,PASS
+absolute_persistence_by_quality.csv shape,"(10, 5)","(10, 5)",replayed_table,PASS
+absolute_persistence_by_quality.csv columns,"['sample', 'run_length', 'eligible_countries', 'countries_with_run', 'rate']","['sample', 'run_length', 'eligible_countries', 'countries_with_run', 'rate']",replayed_table,PASS
+absolute_persistence_by_quality.csv sample exact_match,True,True,replayed_table,PASS
+absolute_persistence_by_quality.csv run_length numeric_match,True,True,replayed_table,PASS
+absolute_persistence_by_quality.csv eligible_countries numeric_match,True,True,replayed_table,PASS
+absolute_persistence_by_quality.csv countries_with_run numeric_match,True,True,replayed_table,PASS
+absolute_persistence_by_quality.csv rate numeric_match,True,True,replayed_table,PASS
+absolute_persistence_country.csv shape,"(471, 9)","(471, 9)",replayed_table,PASS
+absolute_persistence_country.csv columns,"['iso3', 'design', 'max_consecutive_absolute', 'observed_comparisons', 'eligible_two_positions', 'absolute_two_positions', 'has_two', 'eligible_three_positions', 'has_three']","['iso3', 'design', 'max_consecutive_absolute', 'observed_comparisons', 'eligible_two_positions', 'absolute_two_positions', 'has_two', 'eligible_three_positions', 'has_three']",replayed_table,PASS
+absolute_persistence_country.csv iso3 exact_match,True,True,replayed_table,PASS
+absolute_persistence_country.csv design exact_match,True,True,replayed_table,PASS
+absolute_persistence_country.csv max_consecutive_absolute numeric_match,True,True,replayed_table,PASS
+absolute_persistence_country.csv observed_comparisons numeric_match,True,True,replayed_table,PASS
+absolute_persistence_country.csv eligible_two_positions numeric_match,True,True,replayed_table,PASS
+absolute_persistence_country.csv absolute_two_positions numeric_match,True,True,replayed_table,PASS
+absolute_persistence_country.csv has_two numeric_match,True,True,replayed_table,PASS
+absolute_persistence_country.csv eligible_three_positions numeric_match,True,True,replayed_table,PASS
+absolute_persistence_country.csv has_three exact_match,True,True,replayed_table,PASS
+absolute_persistence_summary.csv shape,"(4, 6)","(4, 6)",replayed_table,PASS
+absolute_persistence_summary.csv columns,"['design', 'min_run', 'eligible_countries', 'countries_with_run', 'rate', 'eligible_windows']","['design', 'min_run', 'eligible_countries', 'countries_with_run', 'rate', 'eligible_windows']",replayed_table,PASS
+absolute_persistence_summary.csv design exact_match,True,True,replayed_table,PASS
+absolute_persistence_summary.csv min_run numeric_match,True,True,replayed_table,PASS
+absolute_persistence_summary.csv eligible_countries numeric_match,True,True,replayed_table,PASS
+absolute_persistence_summary.csv countries_with_run numeric_match,True,True,replayed_table,PASS
+absolute_persistence_summary.csv rate numeric_match,True,True,replayed_table,PASS
+absolute_persistence_summary.csv eligible_windows numeric_match,True,True,replayed_table,PASS
+agricultural_scale_weighted_incidence.csv shape,"(24, 9)","(24, 9)",replayed_table,PASS
+agricultural_scale_weighted_incidence.csv columns,"['sample', 'weight', 'event', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']","['sample', 'weight', 'event', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']",replayed_table,PASS
+agricultural_scale_weighted_incidence.csv sample exact_match,True,True,replayed_table,PASS
+agricultural_scale_weighted_incidence.csv weight exact_match,True,True,replayed_table,PASS
+agricultural_scale_weighted_incidence.csv event exact_match,True,True,replayed_table,PASS
+agricultural_scale_weighted_incidence.csv n numeric_match,True,True,replayed_table,PASS
+agricultural_scale_weighted_incidence.csv countries numeric_match,True,True,replayed_table,PASS
+agricultural_scale_weighted_incidence.csv events numeric_match,True,True,replayed_table,PASS
+agricultural_scale_weighted_incidence.csv estimate numeric_match,True,True,replayed_table,PASS
+agricultural_scale_weighted_incidence.csv ci_low numeric_match,True,True,replayed_table,PASS
+agricultural_scale_weighted_incidence.csv ci_high numeric_match,True,True,replayed_table,PASS
+category_incidence_bootstrap.csv shape,"(12, 8)","(12, 8)",replayed_table,PASS
+category_incidence_bootstrap.csv columns,"['category', 'event', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']","['category', 'event', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']",replayed_table,PASS
+category_incidence_bootstrap.csv category exact_match,True,True,replayed_table,PASS
+category_incidence_bootstrap.csv event exact_match,True,True,replayed_table,PASS
+category_incidence_bootstrap.csv n numeric_match,True,True,replayed_table,PASS
+category_incidence_bootstrap.csv countries numeric_match,True,True,replayed_table,PASS
+category_incidence_bootstrap.csv events numeric_match,True,True,replayed_table,PASS
+category_incidence_bootstrap.csv estimate numeric_match,True,True,replayed_table,PASS
+category_incidence_bootstrap.csv ci_low numeric_match,True,True,replayed_table,PASS
+category_incidence_bootstrap.csv ci_high numeric_match,True,True,replayed_table,PASS
+class_and_total_flag_quality.csv shape,"(6, 8)","(6, 8)",replayed_table,PASS
+class_and_total_flag_quality.csv columns,"['sample', 'event', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']","['sample', 'event', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']",replayed_table,PASS
+class_and_total_flag_quality.csv sample exact_match,True,True,replayed_table,PASS
+class_and_total_flag_quality.csv event exact_match,True,True,replayed_table,PASS
+class_and_total_flag_quality.csv n numeric_match,True,True,replayed_table,PASS
+class_and_total_flag_quality.csv countries numeric_match,True,True,replayed_table,PASS
+class_and_total_flag_quality.csv events numeric_match,True,True,replayed_table,PASS
+class_and_total_flag_quality.csv estimate numeric_match,True,True,replayed_table,PASS
+class_and_total_flag_quality.csv ci_low numeric_match,True,True,replayed_table,PASS
+class_and_total_flag_quality.csv ci_high numeric_match,True,True,replayed_table,PASS
+class_share_quantity_crossclassification.csv shape,"(6, 8)","(6, 8)",replayed_table,PASS
+class_share_quantity_crossclassification.csv columns,"['category', 'event', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']","['category', 'event', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']",replayed_table,PASS
+class_share_quantity_crossclassification.csv category exact_match,True,True,replayed_table,PASS
+class_share_quantity_crossclassification.csv event exact_match,True,True,replayed_table,PASS
+class_share_quantity_crossclassification.csv n numeric_match,True,True,replayed_table,PASS
+class_share_quantity_crossclassification.csv countries numeric_match,True,True,replayed_table,PASS
+class_share_quantity_crossclassification.csv events numeric_match,True,True,replayed_table,PASS
+class_share_quantity_crossclassification.csv estimate numeric_match,True,True,replayed_table,PASS
+class_share_quantity_crossclassification.csv ci_low numeric_match,True,True,replayed_table,PASS
+class_share_quantity_crossclassification.csv ci_high numeric_match,True,True,replayed_table,PASS
+common_absolute_category_magnitudes.csv shape,"(567, 12)","(567, 12)",replayed_table,PASS
+common_absolute_category_magnitudes.csv columns,"['id', 'iso3', 'period_start', 'category', 'start_t', 'end_t', 'delta_t', 'growth_pct', 'share_change_pp', 'increment_pct_P0', 'known_break', 'national_A_share']","['id', 'iso3', 'period_start', 'category', 'start_t', 'end_t', 'delta_t', 'growth_pct', 'share_change_pp', 'increment_pct_P0', 'known_break', 'national_A_share']",replayed_table,PASS
+common_absolute_category_magnitudes.csv id exact_match,True,True,replayed_table,PASS
+common_absolute_category_magnitudes.csv iso3 exact_match,True,True,replayed_table,PASS
+common_absolute_category_magnitudes.csv period_start numeric_match,True,True,replayed_table,PASS
+common_absolute_category_magnitudes.csv category exact_match,True,True,replayed_table,PASS
+common_absolute_category_magnitudes.csv start_t numeric_match,True,True,replayed_table,PASS
+common_absolute_category_magnitudes.csv end_t numeric_match,True,True,replayed_table,PASS
+common_absolute_category_magnitudes.csv delta_t numeric_match,True,True,replayed_table,PASS
+common_absolute_category_magnitudes.csv growth_pct numeric_match,True,True,replayed_table,PASS
+common_absolute_category_magnitudes.csv share_change_pp numeric_match,True,True,replayed_table,PASS
+common_absolute_category_magnitudes.csv increment_pct_P0 numeric_match,True,True,replayed_table,PASS
+common_absolute_category_magnitudes.csv known_break numeric_match,True,True,replayed_table,PASS
+common_absolute_category_magnitudes.csv national_A_share numeric_match,True,True,replayed_table,PASS
+comparable_period_contrasts.csv shape,"(12, 9)","(12, 9)",replayed_table,PASS
+comparable_period_contrasts.csv columns,"['target', 'comparator', 'event', 'difference', 'ci_low', 'ci_high', 'n_target', 'n_comparator', 'cluster_countries']","['target', 'comparator', 'event', 'difference', 'ci_low', 'ci_high', 'n_target', 'n_comparator', 'cluster_countries']",replayed_table,PASS
+comparable_period_contrasts.csv target exact_match,True,True,replayed_table,PASS
+comparable_period_contrasts.csv comparator exact_match,True,True,replayed_table,PASS
+comparable_period_contrasts.csv event exact_match,True,True,replayed_table,PASS
+comparable_period_contrasts.csv difference numeric_match,True,True,replayed_table,PASS
+comparable_period_contrasts.csv ci_low numeric_match,True,True,replayed_table,PASS
+comparable_period_contrasts.csv ci_high numeric_match,True,True,replayed_table,PASS
+comparable_period_contrasts.csv n_target numeric_match,True,True,replayed_table,PASS
+comparable_period_contrasts.csv n_comparator numeric_match,True,True,replayed_table,PASS
+comparable_period_contrasts.csv cluster_countries numeric_match,True,True,replayed_table,PASS
+core_sensitivity_bootstrap.csv shape,"(128, 14)","(128, 14)",replayed_table,PASS
+core_sensitivity_bootstrap.csv columns,"['specification', 'all_comparisons', 'all_countries', 'absolute', 'common_absolute', 'common_countries', 'event', 'weighting', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']","['specification', 'all_comparisons', 'all_countries', 'absolute', 'common_absolute', 'common_countries', 'event', 'weighting', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']",replayed_table,PASS
+core_sensitivity_bootstrap.csv specification exact_match,True,True,replayed_table,PASS
+core_sensitivity_bootstrap.csv all_comparisons numeric_match,True,True,replayed_table,PASS
+core_sensitivity_bootstrap.csv all_countries numeric_match,True,True,replayed_table,PASS
+core_sensitivity_bootstrap.csv absolute numeric_match,True,True,replayed_table,PASS
+core_sensitivity_bootstrap.csv common_absolute numeric_match,True,True,replayed_table,PASS
+core_sensitivity_bootstrap.csv common_countries numeric_match,True,True,replayed_table,PASS
+core_sensitivity_bootstrap.csv event exact_match,True,True,replayed_table,PASS
+core_sensitivity_bootstrap.csv weighting exact_match,True,True,replayed_table,PASS
+core_sensitivity_bootstrap.csv n numeric_match,True,True,replayed_table,PASS
+core_sensitivity_bootstrap.csv countries numeric_match,True,True,replayed_table,PASS
+core_sensitivity_bootstrap.csv events numeric_match,True,True,replayed_table,PASS
+core_sensitivity_bootstrap.csv estimate numeric_match,True,True,replayed_table,PASS
+core_sensitivity_bootstrap.csv ci_low numeric_match,True,True,replayed_table,PASS
+core_sensitivity_bootstrap.csv ci_high numeric_match,True,True,replayed_table,PASS
+divergence_by_region_income_period.csv shape,"(51, 10)","(51, 10)",replayed_table,PASS
+divergence_by_region_income_period.csv columns,"['stratum', 'level', 'event', 'small_sample_descriptive_only', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']","['stratum', 'level', 'event', 'small_sample_descriptive_only', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']",replayed_table,PASS
+divergence_by_region_income_period.csv stratum exact_match,True,True,replayed_table,PASS
+divergence_by_region_income_period.csv level exact_match,True,True,replayed_table,PASS
+divergence_by_region_income_period.csv event exact_match,True,True,replayed_table,PASS
+divergence_by_region_income_period.csv small_sample_descriptive_only numeric_match,True,True,replayed_table,PASS
+divergence_by_region_income_period.csv n numeric_match,True,True,replayed_table,PASS
+divergence_by_region_income_period.csv countries numeric_match,True,True,replayed_table,PASS
+divergence_by_region_income_period.csv events numeric_match,True,True,replayed_table,PASS
+divergence_by_region_income_period.csv estimate numeric_match,True,True,replayed_table,PASS
+divergence_by_region_income_period.csv ci_low numeric_match,True,True,replayed_table,PASS
+divergence_by_region_income_period.csv ci_high numeric_match,True,True,replayed_table,PASS
+divergence_incidence_bootstrap.csv shape,"(56, 9)","(56, 9)",replayed_table,PASS
+divergence_incidence_bootstrap.csv columns,"['sample', 'event', 'estimand', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']","['sample', 'event', 'estimand', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']",replayed_table,PASS
+divergence_incidence_bootstrap.csv sample exact_match,True,True,replayed_table,PASS
+divergence_incidence_bootstrap.csv event exact_match,True,True,replayed_table,PASS
+divergence_incidence_bootstrap.csv estimand exact_match,True,True,replayed_table,PASS
+divergence_incidence_bootstrap.csv n numeric_match,True,True,replayed_table,PASS
+divergence_incidence_bootstrap.csv countries numeric_match,True,True,replayed_table,PASS
+divergence_incidence_bootstrap.csv events numeric_match,True,True,replayed_table,PASS
+divergence_incidence_bootstrap.csv estimate numeric_match,True,True,replayed_table,PASS
+divergence_incidence_bootstrap.csv ci_low numeric_match,True,True,replayed_table,PASS
+divergence_incidence_bootstrap.csv ci_high numeric_match,True,True,replayed_table,PASS
+divergence_magnitude_distribution.csv shape,"(12, 9)","(12, 9)",replayed_table,PASS
+divergence_magnitude_distribution.csv columns,"['sample', 'variable', 'n', 'mean', 'q5', 'q25', 'q50', 'q75', 'q95']","['sample', 'variable', 'n', 'mean', 'q5', 'q25', 'q50', 'q75', 'q95']",replayed_table,PASS
+divergence_magnitude_distribution.csv sample exact_match,True,True,replayed_table,PASS
+divergence_magnitude_distribution.csv variable exact_match,True,True,replayed_table,PASS
+divergence_magnitude_distribution.csv n numeric_match,True,True,replayed_table,PASS
+divergence_magnitude_distribution.csv mean numeric_match,True,True,replayed_table,PASS
+divergence_magnitude_distribution.csv q5 numeric_match,True,True,replayed_table,PASS
+divergence_magnitude_distribution.csv q25 numeric_match,True,True,replayed_table,PASS
+divergence_magnitude_distribution.csv q50 numeric_match,True,True,replayed_table,PASS
+divergence_magnitude_distribution.csv q75 numeric_match,True,True,replayed_table,PASS
+divergence_magnitude_distribution.csv q95 numeric_match,True,True,replayed_table,PASS
+economic_model_diagnostics.csv shape,"(15, 14)","(15, 14)",replayed_table,PASS
+economic_model_diagnostics.csv columns,"['model', 'candidate_n', 'nobs', 'clusters', 'events', 'switching_countries', 'within_rank', 'regressors', 'standardized_within_condition', 'prediction_min', 'prediction_max', 'prediction_outside01', 'r2', 'model_rank']","['model', 'candidate_n', 'nobs', 'clusters', 'events', 'switching_countries', 'within_rank', 'regressors', 'standardized_within_condition', 'prediction_min', 'prediction_max', 'prediction_outside01', 'r2', 'model_rank']",replayed_table,PASS
+economic_model_diagnostics.csv model exact_match,True,True,replayed_table,PASS
+economic_model_diagnostics.csv candidate_n numeric_match,True,True,replayed_table,PASS
+economic_model_diagnostics.csv nobs numeric_match,True,True,replayed_table,PASS
+economic_model_diagnostics.csv clusters numeric_match,True,True,replayed_table,PASS
+economic_model_diagnostics.csv events numeric_match,True,True,replayed_table,PASS
+economic_model_diagnostics.csv switching_countries numeric_match,True,True,replayed_table,PASS
+economic_model_diagnostics.csv within_rank numeric_match,True,True,replayed_table,PASS
+economic_model_diagnostics.csv regressors numeric_match,True,True,replayed_table,PASS
+economic_model_diagnostics.csv standardized_within_condition numeric_match,True,True,replayed_table,PASS
+economic_model_diagnostics.csv prediction_min numeric_match,True,True,replayed_table,PASS
+economic_model_diagnostics.csv prediction_max numeric_match,True,True,replayed_table,PASS
+economic_model_diagnostics.csv prediction_outside01 numeric_match,True,True,replayed_table,PASS
+economic_model_diagnostics.csv r2 numeric_match,True,True,replayed_table,PASS
+economic_model_diagnostics.csv model_rank numeric_match,True,True,replayed_table,PASS
+economic_model_sample_keys.csv shape,"(6956, 11)","(6956, 11)",replayed_table,PASS
+economic_model_sample_keys.csv columns,"['id', 'iso3', 'period_start', 'absolute_outcome', 'ln_gdppc0', 'ln_cropland0', 'ln_crop_intensity0', 'model', 'cereal_share0_10pp', 'vegfruit_share0_10pp', 'divergence_outcome']","['id', 'iso3', 'period_start', 'absolute_outcome', 'ln_gdppc0', 'ln_cropland0', 'ln_crop_intensity0', 'model', 'cereal_share0_10pp', 'vegfruit_share0_10pp', 'divergence_outcome']",replayed_table,PASS
+economic_model_sample_keys.csv id exact_match,True,True,replayed_table,PASS
+economic_model_sample_keys.csv iso3 exact_match,True,True,replayed_table,PASS
+economic_model_sample_keys.csv period_start numeric_match,True,True,replayed_table,PASS
+economic_model_sample_keys.csv absolute_outcome numeric_match,True,True,replayed_table,PASS
+economic_model_sample_keys.csv ln_gdppc0 numeric_match,True,True,replayed_table,PASS
+economic_model_sample_keys.csv ln_cropland0 numeric_match,True,True,replayed_table,PASS
+economic_model_sample_keys.csv ln_crop_intensity0 numeric_match,True,True,replayed_table,PASS
+economic_model_sample_keys.csv model exact_match,True,True,replayed_table,PASS
+economic_model_sample_keys.csv cereal_share0_10pp numeric_match,True,True,replayed_table,PASS
+economic_model_sample_keys.csv vegfruit_share0_10pp numeric_match,True,True,replayed_table,PASS
+economic_model_sample_keys.csv divergence_outcome numeric_match,True,True,replayed_table,PASS
+economic_models_coefficients.csv shape,"(55, 16)","(55, 16)",replayed_table,PASS
+economic_models_coefficients.csv columns,"['model', 'outcome', 'term', 'coefficient', 'cluster_se', 'ci_low', 'ci_high', 'pvalue', 'nobs', 'clusters', 'countries_switching_outcome', 'events', 'fe', 'reference', 'estimator', 'se']","['model', 'outcome', 'term', 'coefficient', 'cluster_se', 'ci_low', 'ci_high', 'pvalue', 'nobs', 'clusters', 'countries_switching_outcome', 'events', 'fe', 'reference', 'estimator', 'se']",replayed_table,PASS
+economic_models_coefficients.csv model exact_match,True,True,replayed_table,PASS
+economic_models_coefficients.csv outcome exact_match,True,True,replayed_table,PASS
+economic_models_coefficients.csv term exact_match,True,True,replayed_table,PASS
+economic_models_coefficients.csv coefficient numeric_match,True,True,replayed_table,PASS
+economic_models_coefficients.csv cluster_se numeric_match,True,True,replayed_table,PASS
+economic_models_coefficients.csv ci_low numeric_match,True,True,replayed_table,PASS
+economic_models_coefficients.csv ci_high numeric_match,True,True,replayed_table,PASS
+economic_models_coefficients.csv pvalue numeric_match,True,True,replayed_table,PASS
+economic_models_coefficients.csv nobs numeric_match,True,True,replayed_table,PASS
+economic_models_coefficients.csv clusters numeric_match,True,True,replayed_table,PASS
+economic_models_coefficients.csv countries_switching_outcome numeric_match,True,True,replayed_table,PASS
+economic_models_coefficients.csv events numeric_match,True,True,replayed_table,PASS
+economic_models_coefficients.csv fe exact_match,True,True,replayed_table,PASS
+economic_models_coefficients.csv reference exact_match,True,True,replayed_table,PASS
+economic_models_coefficients.csv estimator exact_match,True,True,replayed_table,PASS
+economic_models_coefficients.csv se exact_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv shape,"(37, 121)","(37, 121)",replayed_table,PASS
+large_class_divergence_events.csv columns,"['iso3', 'id', 'width', 'previous_start', 'previous_end', 'period_start', 'period_end', 'n_previous', 'n_current', 'region', 'income', 'fao_area', 'fao_area_code', 'national_A_share', 'national_I_share', 'proxy_note', 'p_source', 'y_source', 'source_valid', 'known_break', 'known_break_years', 'questionnaire2023_overlap', 'support_years0', 'p_kg0', 'p_kg_n0', 'y0', 'crop_usd2015_n0', 'cropland_ha0', 'cropland_ha_n0', 'gdp_pc_const0', 'gdp_pc_const_n0', 'cereal_share0', 'cereal_share_n0', 'vegfruit_share0', 'vegfruit_share_n0', 'p_A_share0', 'p_E_share0', 'p_I_share0', 'p_X_share0', 'support_years1', 'p_kg1', 'p_kg_n1', 'y1', 'crop_usd2015_n1', 'cropland_ha1', 'cropland_ha_n1', 'gdp_pc_const1', 'gdp_pc_const_n1', 'cereal_share1', 'cereal_share_n1', 'vegfruit_share1', 'vegfruit_share_n1', 'p_A_share1', 'p_E_share1', 'p_I_share1', 'p_X_share1', 'gp', 'gy', 'state', 'detail_state', 'near_zero_y_growth', 'elasticity', 'common_complete', 'common_n0', 'common_n1', 'common_support0', 'common_support1', 'cp0', 'cp1', 'cy0', 'cy1', 'cgp', 'cgy', 'common_state', 'common_known_negative_residual', 'herbicide_kg_complete', 'herbicide_kg_own0', 'herbicide_kg_own1', 'herbicide_kg0', 'herbicide_kg1', 'herbicide_kg_delta_t', 'herbicide_kg_growth', 'herbicide_kg_entry', 'herbicide_kg_share_pp', 'herbicide_kg_delta_over_P0', 'insecticide_kg_complete', 'insecticide_kg_own0', 'insecticide_kg_own1', 'insecticide_kg0', 'insecticide_kg1', 'insecticide_kg_delta_t', 'insecticide_kg_growth', 'insecticide_kg_entry', 'insecticide_kg_share_pp', 'insecticide_kg_delta_over_P0', 'fungicide_kg_complete', 'fungicide_kg_own0', 'fungicide_kg_own1', 'fungicide_kg0', 'fungicide_kg1', 'fungicide_kg_delta_t', 'fungicide_kg_growth', 'fungicide_kg_entry', 'fungicide_kg_share_pp', 'fungicide_kg_delta_over_P0', 'any_increase', 'positive_class_baselines', 'any_zero_entry', 'any_gt5', 'any_gt10', 'positive_increment_over_P0', 'max_increment_over_P0', 'substantial_gt1pctP0', 'substantial_gt5pctP0', 'delta_total_t', 'delta_HIF_t', 'residual0_t', 'residual1_t', 'delta_residual_t', 'class_coverage0', 'class_coverage1']","['iso3', 'id', 'width', 'previous_start', 'previous_end', 'period_start', 'period_end', 'n_previous', 'n_current', 'region', 'income', 'fao_area', 'fao_area_code', 'national_A_share', 'national_I_share', 'proxy_note', 'p_source', 'y_source', 'source_valid', 'known_break', 'known_break_years', 'questionnaire2023_overlap', 'support_years0', 'p_kg0', 'p_kg_n0', 'y0', 'crop_usd2015_n0', 'cropland_ha0', 'cropland_ha_n0', 'gdp_pc_const0', 'gdp_pc_const_n0', 'cereal_share0', 'cereal_share_n0', 'vegfruit_share0', 'vegfruit_share_n0', 'p_A_share0', 'p_E_share0', 'p_I_share0', 'p_X_share0', 'support_years1', 'p_kg1', 'p_kg_n1', 'y1', 'crop_usd2015_n1', 'cropland_ha1', 'cropland_ha_n1', 'gdp_pc_const1', 'gdp_pc_const_n1', 'cereal_share1', 'cereal_share_n1', 'vegfruit_share1', 'vegfruit_share_n1', 'p_A_share1', 'p_E_share1', 'p_I_share1', 'p_X_share1', 'gp', 'gy', 'state', 'detail_state', 'near_zero_y_growth', 'elasticity', 'common_complete', 'common_n0', 'common_n1', 'common_support0', 'common_support1', 'cp0', 'cp1', 'cy0', 'cy1', 'cgp', 'cgy', 'common_state', 'common_known_negative_residual', 'herbicide_kg_complete', 'herbicide_kg_own0', 'herbicide_kg_own1', 'herbicide_kg0', 'herbicide_kg1', 'herbicide_kg_delta_t', 'herbicide_kg_growth', 'herbicide_kg_entry', 'herbicide_kg_share_pp', 'herbicide_kg_delta_over_P0', 'insecticide_kg_complete', 'insecticide_kg_own0', 'insecticide_kg_own1', 'insecticide_kg0', 'insecticide_kg1', 'insecticide_kg_delta_t', 'insecticide_kg_growth', 'insecticide_kg_entry', 'insecticide_kg_share_pp', 'insecticide_kg_delta_over_P0', 'fungicide_kg_complete', 'fungicide_kg_own0', 'fungicide_kg_own1', 'fungicide_kg0', 'fungicide_kg1', 'fungicide_kg_delta_t', 'fungicide_kg_growth', 'fungicide_kg_entry', 'fungicide_kg_share_pp', 'fungicide_kg_delta_over_P0', 'any_increase', 'positive_class_baselines', 'any_zero_entry', 'any_gt5', 'any_gt10', 'positive_increment_over_P0', 'max_increment_over_P0', 'substantial_gt1pctP0', 'substantial_gt5pctP0', 'delta_total_t', 'delta_HIF_t', 'residual0_t', 'residual1_t', 'delta_residual_t', 'class_coverage0', 'class_coverage1']",replayed_table,PASS
+large_class_divergence_events.csv iso3 exact_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv id exact_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv width numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv previous_start numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv previous_end numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv period_start numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv period_end numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv n_previous numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv n_current numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv region exact_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv income exact_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv fao_area exact_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv fao_area_code numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv national_A_share numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv national_I_share numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv proxy_note exact_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv p_source exact_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv y_source exact_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv source_valid numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv known_break numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv known_break_years numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv questionnaire2023_overlap numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv support_years0 exact_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv p_kg0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv p_kg_n0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv y0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv crop_usd2015_n0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv cropland_ha0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv cropland_ha_n0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv gdp_pc_const0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv gdp_pc_const_n0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv cereal_share0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv cereal_share_n0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv vegfruit_share0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv vegfruit_share_n0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv p_A_share0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv p_E_share0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv p_I_share0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv p_X_share0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv support_years1 exact_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv p_kg1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv p_kg_n1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv y1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv crop_usd2015_n1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv cropland_ha1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv cropland_ha_n1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv gdp_pc_const1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv gdp_pc_const_n1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv cereal_share1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv cereal_share_n1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv vegfruit_share1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv vegfruit_share_n1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv p_A_share1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv p_E_share1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv p_I_share1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv p_X_share1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv gp numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv gy numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv state exact_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv detail_state exact_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv near_zero_y_growth numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv elasticity numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv common_complete numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv common_n0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv common_n1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv common_support0 exact_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv common_support1 exact_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv cp0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv cp1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv cy0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv cy1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv cgp numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv cgy numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv common_state exact_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv common_known_negative_residual numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv herbicide_kg_complete numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv herbicide_kg_own0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv herbicide_kg_own1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv herbicide_kg0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv herbicide_kg1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv herbicide_kg_delta_t numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv herbicide_kg_growth numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv herbicide_kg_entry numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv herbicide_kg_share_pp numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv herbicide_kg_delta_over_P0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv insecticide_kg_complete numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv insecticide_kg_own0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv insecticide_kg_own1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv insecticide_kg0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv insecticide_kg1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv insecticide_kg_delta_t numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv insecticide_kg_growth numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv insecticide_kg_entry numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv insecticide_kg_share_pp numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv insecticide_kg_delta_over_P0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv fungicide_kg_complete numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv fungicide_kg_own0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv fungicide_kg_own1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv fungicide_kg0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv fungicide_kg1 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv fungicide_kg_delta_t numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv fungicide_kg_growth numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv fungicide_kg_entry numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv fungicide_kg_share_pp numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv fungicide_kg_delta_over_P0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv any_increase numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv positive_class_baselines numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv any_zero_entry numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv any_gt5 exact_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv any_gt10 exact_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv positive_increment_over_P0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv max_increment_over_P0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv substantial_gt1pctP0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv substantial_gt5pctP0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv delta_total_t numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv delta_HIF_t numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv residual0_t numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv residual1_t numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv delta_residual_t numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv class_coverage0 numeric_match,True,True,replayed_table,PASS
+large_class_divergence_events.csv class_coverage1 numeric_match,True,True,replayed_table,PASS
+leave_one_country_out.csv shape,"(106, 5)","(106, 5)",replayed_table,PASS
+leave_one_country_out.csv columns,"['dropped_iso3', 'n', 'unweighted', 'mass_weighted', 'removed_mass_share']","['dropped_iso3', 'n', 'unweighted', 'mass_weighted', 'removed_mass_share']",replayed_table,PASS
+leave_one_country_out.csv dropped_iso3 exact_match,True,True,replayed_table,PASS
+leave_one_country_out.csv n numeric_match,True,True,replayed_table,PASS
+leave_one_country_out.csv unweighted numeric_match,True,True,replayed_table,PASS
+leave_one_country_out.csv mass_weighted numeric_match,True,True,replayed_table,PASS
+leave_one_country_out.csv removed_mass_share numeric_match,True,True,replayed_table,PASS
+model_covariate_availability.csv shape,"(5, 4)","(5, 4)",replayed_table,PASS
+model_covariate_availability.csv columns,"['variable', 'comparisons', 'nonmissing', 'countries']","['variable', 'comparisons', 'nonmissing', 'countries']",replayed_table,PASS
+model_covariate_availability.csv variable exact_match,True,True,replayed_table,PASS
+model_covariate_availability.csv comparisons numeric_match,True,True,replayed_table,PASS
+model_covariate_availability.csv nonmissing numeric_match,True,True,replayed_table,PASS
+model_covariate_availability.csv countries numeric_match,True,True,replayed_table,PASS
+model_within_collinearity.csv shape,"(55, 4)","(55, 4)",replayed_table,PASS
+model_within_collinearity.csv columns,"['model', 'variable', 'within_sd', 'within_vif']","['model', 'variable', 'within_sd', 'within_vif']",replayed_table,PASS
+model_within_collinearity.csv model exact_match,True,True,replayed_table,PASS
+model_within_collinearity.csv variable exact_match,True,True,replayed_table,PASS
+model_within_collinearity.csv within_sd numeric_match,True,True,replayed_table,PASS
+model_within_collinearity.csv within_vif numeric_match,True,True,replayed_table,PASS
+model_within_correlations.csv shape,"(215, 4)","(215, 4)",replayed_table,PASS
+model_within_correlations.csv columns,"['model', 'variable1', 'variable2', 'within_correlation']","['model', 'variable1', 'variable2', 'within_correlation']",replayed_table,PASS
+model_within_correlations.csv model exact_match,True,True,replayed_table,PASS
+model_within_correlations.csv variable1 exact_match,True,True,replayed_table,PASS
+model_within_correlations.csv variable2 exact_match,True,True,replayed_table,PASS
+model_within_correlations.csv within_correlation numeric_match,True,True,replayed_table,PASS
+models_not_estimable.csv shape,"(0, 5)","(0, 5)",replayed_table,PASS
+models_not_estimable.csv columns,"['model', 'reason', 'n', 'clusters', 'events']","['model', 'reason', 'n', 'clusters', 'events']",replayed_table,PASS
+models_not_estimable.csv model exact_match,True,True,replayed_table,PASS
+models_not_estimable.csv reason exact_match,True,True,replayed_table,PASS
+models_not_estimable.csv n exact_match,True,True,replayed_table,PASS
+models_not_estimable.csv clusters exact_match,True,True,replayed_table,PASS
+models_not_estimable.csv events exact_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv shape,"(5, 121)","(5, 121)",replayed_table,PASS
+nonpositive_category_baselines.csv columns,"['iso3', 'id', 'width', 'previous_start', 'previous_end', 'period_start', 'period_end', 'n_previous', 'n_current', 'region', 'income', 'fao_area', 'fao_area_code', 'national_A_share', 'national_I_share', 'proxy_note', 'p_source', 'y_source', 'source_valid', 'known_break', 'known_break_years', 'questionnaire2023_overlap', 'support_years0', 'p_kg0', 'p_kg_n0', 'y0', 'crop_usd2015_n0', 'cropland_ha0', 'cropland_ha_n0', 'gdp_pc_const0', 'gdp_pc_const_n0', 'cereal_share0', 'cereal_share_n0', 'vegfruit_share0', 'vegfruit_share_n0', 'p_A_share0', 'p_E_share0', 'p_I_share0', 'p_X_share0', 'support_years1', 'p_kg1', 'p_kg_n1', 'y1', 'crop_usd2015_n1', 'cropland_ha1', 'cropland_ha_n1', 'gdp_pc_const1', 'gdp_pc_const_n1', 'cereal_share1', 'cereal_share_n1', 'vegfruit_share1', 'vegfruit_share_n1', 'p_A_share1', 'p_E_share1', 'p_I_share1', 'p_X_share1', 'gp', 'gy', 'state', 'detail_state', 'near_zero_y_growth', 'elasticity', 'common_complete', 'common_n0', 'common_n1', 'common_support0', 'common_support1', 'cp0', 'cp1', 'cy0', 'cy1', 'cgp', 'cgy', 'common_state', 'common_known_negative_residual', 'herbicide_kg_complete', 'herbicide_kg_own0', 'herbicide_kg_own1', 'herbicide_kg0', 'herbicide_kg1', 'herbicide_kg_delta_t', 'herbicide_kg_growth', 'herbicide_kg_entry', 'herbicide_kg_share_pp', 'herbicide_kg_delta_over_P0', 'insecticide_kg_complete', 'insecticide_kg_own0', 'insecticide_kg_own1', 'insecticide_kg0', 'insecticide_kg1', 'insecticide_kg_delta_t', 'insecticide_kg_growth', 'insecticide_kg_entry', 'insecticide_kg_share_pp', 'insecticide_kg_delta_over_P0', 'fungicide_kg_complete', 'fungicide_kg_own0', 'fungicide_kg_own1', 'fungicide_kg0', 'fungicide_kg1', 'fungicide_kg_delta_t', 'fungicide_kg_growth', 'fungicide_kg_entry', 'fungicide_kg_share_pp', 'fungicide_kg_delta_over_P0', 'any_increase', 'positive_class_baselines', 'any_zero_entry', 'any_gt5', 'any_gt10', 'positive_increment_over_P0', 'max_increment_over_P0', 'substantial_gt1pctP0', 'substantial_gt5pctP0', 'delta_total_t', 'delta_HIF_t', 'residual0_t', 'residual1_t', 'delta_residual_t', 'class_coverage0', 'class_coverage1']","['iso3', 'id', 'width', 'previous_start', 'previous_end', 'period_start', 'period_end', 'n_previous', 'n_current', 'region', 'income', 'fao_area', 'fao_area_code', 'national_A_share', 'national_I_share', 'proxy_note', 'p_source', 'y_source', 'source_valid', 'known_break', 'known_break_years', 'questionnaire2023_overlap', 'support_years0', 'p_kg0', 'p_kg_n0', 'y0', 'crop_usd2015_n0', 'cropland_ha0', 'cropland_ha_n0', 'gdp_pc_const0', 'gdp_pc_const_n0', 'cereal_share0', 'cereal_share_n0', 'vegfruit_share0', 'vegfruit_share_n0', 'p_A_share0', 'p_E_share0', 'p_I_share0', 'p_X_share0', 'support_years1', 'p_kg1', 'p_kg_n1', 'y1', 'crop_usd2015_n1', 'cropland_ha1', 'cropland_ha_n1', 'gdp_pc_const1', 'gdp_pc_const_n1', 'cereal_share1', 'cereal_share_n1', 'vegfruit_share1', 'vegfruit_share_n1', 'p_A_share1', 'p_E_share1', 'p_I_share1', 'p_X_share1', 'gp', 'gy', 'state', 'detail_state', 'near_zero_y_growth', 'elasticity', 'common_complete', 'common_n0', 'common_n1', 'common_support0', 'common_support1', 'cp0', 'cp1', 'cy0', 'cy1', 'cgp', 'cgy', 'common_state', 'common_known_negative_residual', 'herbicide_kg_complete', 'herbicide_kg_own0', 'herbicide_kg_own1', 'herbicide_kg0', 'herbicide_kg1', 'herbicide_kg_delta_t', 'herbicide_kg_growth', 'herbicide_kg_entry', 'herbicide_kg_share_pp', 'herbicide_kg_delta_over_P0', 'insecticide_kg_complete', 'insecticide_kg_own0', 'insecticide_kg_own1', 'insecticide_kg0', 'insecticide_kg1', 'insecticide_kg_delta_t', 'insecticide_kg_growth', 'insecticide_kg_entry', 'insecticide_kg_share_pp', 'insecticide_kg_delta_over_P0', 'fungicide_kg_complete', 'fungicide_kg_own0', 'fungicide_kg_own1', 'fungicide_kg0', 'fungicide_kg1', 'fungicide_kg_delta_t', 'fungicide_kg_growth', 'fungicide_kg_entry', 'fungicide_kg_share_pp', 'fungicide_kg_delta_over_P0', 'any_increase', 'positive_class_baselines', 'any_zero_entry', 'any_gt5', 'any_gt10', 'positive_increment_over_P0', 'max_increment_over_P0', 'substantial_gt1pctP0', 'substantial_gt5pctP0', 'delta_total_t', 'delta_HIF_t', 'residual0_t', 'residual1_t', 'delta_residual_t', 'class_coverage0', 'class_coverage1']",replayed_table,PASS
+nonpositive_category_baselines.csv iso3 exact_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv id exact_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv width numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv previous_start numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv previous_end numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv period_start numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv period_end numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv n_previous numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv n_current numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv region exact_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv income exact_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv fao_area exact_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv fao_area_code numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv national_A_share numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv national_I_share numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv proxy_note exact_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv p_source exact_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv y_source exact_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv source_valid numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv known_break numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv known_break_years numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv questionnaire2023_overlap numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv support_years0 exact_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv p_kg0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv p_kg_n0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv y0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv crop_usd2015_n0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv cropland_ha0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv cropland_ha_n0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv gdp_pc_const0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv gdp_pc_const_n0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv cereal_share0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv cereal_share_n0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv vegfruit_share0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv vegfruit_share_n0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv p_A_share0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv p_E_share0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv p_I_share0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv p_X_share0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv support_years1 exact_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv p_kg1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv p_kg_n1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv y1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv crop_usd2015_n1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv cropland_ha1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv cropland_ha_n1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv gdp_pc_const1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv gdp_pc_const_n1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv cereal_share1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv cereal_share_n1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv vegfruit_share1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv vegfruit_share_n1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv p_A_share1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv p_E_share1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv p_I_share1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv p_X_share1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv gp numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv gy numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv state exact_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv detail_state exact_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv near_zero_y_growth numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv elasticity numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv common_complete numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv common_n0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv common_n1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv common_support0 exact_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv common_support1 exact_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv cp0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv cp1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv cy0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv cy1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv cgp numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv cgy numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv common_state exact_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv common_known_negative_residual numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv herbicide_kg_complete numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv herbicide_kg_own0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv herbicide_kg_own1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv herbicide_kg0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv herbicide_kg1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv herbicide_kg_delta_t numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv herbicide_kg_growth numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv herbicide_kg_entry numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv herbicide_kg_share_pp numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv herbicide_kg_delta_over_P0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv insecticide_kg_complete numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv insecticide_kg_own0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv insecticide_kg_own1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv insecticide_kg0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv insecticide_kg1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv insecticide_kg_delta_t numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv insecticide_kg_growth numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv insecticide_kg_entry numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv insecticide_kg_share_pp numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv insecticide_kg_delta_over_P0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv fungicide_kg_complete numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv fungicide_kg_own0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv fungicide_kg_own1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv fungicide_kg0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv fungicide_kg1 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv fungicide_kg_delta_t numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv fungicide_kg_growth numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv fungicide_kg_entry numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv fungicide_kg_share_pp numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv fungicide_kg_delta_over_P0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv any_increase numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv positive_class_baselines numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv any_zero_entry numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv any_gt5 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv any_gt10 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv positive_increment_over_P0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv max_increment_over_P0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv substantial_gt1pctP0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv substantial_gt5pctP0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv delta_total_t numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv delta_HIF_t numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv residual0_t numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv residual1_t numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv delta_residual_t numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv class_coverage0 numeric_match,True,True,replayed_table,PASS
+nonpositive_category_baselines.csv class_coverage1 numeric_match,True,True,replayed_table,PASS
+proxy_screen_by_region_income.csv shape,"(42, 5)","(42, 5)",replayed_table,PASS
+proxy_screen_by_region_income.csv columns,"['region', 'income', 'proxy_note', 'comparisons', 'countries']","['region', 'income', 'proxy_note', 'comparisons', 'countries']",replayed_table,PASS
+proxy_screen_by_region_income.csv region exact_match,True,True,replayed_table,PASS
+proxy_screen_by_region_income.csv income exact_match,True,True,replayed_table,PASS
+proxy_screen_by_region_income.csv proxy_note exact_match,True,True,replayed_table,PASS
+proxy_screen_by_region_income.csv comparisons numeric_match,True,True,replayed_table,PASS
+proxy_screen_by_region_income.csv countries numeric_match,True,True,replayed_table,PASS
+quality_interaction_sample_keys.csv shape,"(1638, 4)","(1638, 4)",replayed_table,PASS
+quality_interaction_sample_keys.csv columns,"['id', 'iso3', 'period_start', 'outcome']","['id', 'iso3', 'period_start', 'outcome']",replayed_table,PASS
+quality_interaction_sample_keys.csv id exact_match,True,True,replayed_table,PASS
+quality_interaction_sample_keys.csv iso3 exact_match,True,True,replayed_table,PASS
+quality_interaction_sample_keys.csv period_start numeric_match,True,True,replayed_table,PASS
+quality_interaction_sample_keys.csv outcome exact_match,True,True,replayed_table,PASS
+quality_tier_interaction_tests.csv shape,"(6, 10)","(6, 10)",replayed_table,PASS
+quality_tier_interaction_tests.csv columns,"['outcome', 'term', 'coefficient', 'cluster_se', 'ci_low', 'ci_high', 'pvalue', 'nobs', 'countries', 'status']","['outcome', 'term', 'coefficient', 'cluster_se', 'ci_low', 'ci_high', 'pvalue', 'nobs', 'countries', 'status']",replayed_table,PASS
+quality_tier_interaction_tests.csv outcome exact_match,True,True,replayed_table,PASS
+quality_tier_interaction_tests.csv term exact_match,True,True,replayed_table,PASS
+quality_tier_interaction_tests.csv coefficient numeric_match,True,True,replayed_table,PASS
+quality_tier_interaction_tests.csv cluster_se numeric_match,True,True,replayed_table,PASS
+quality_tier_interaction_tests.csv ci_low numeric_match,True,True,replayed_table,PASS
+quality_tier_interaction_tests.csv ci_high numeric_match,True,True,replayed_table,PASS
+quality_tier_interaction_tests.csv pvalue numeric_match,True,True,replayed_table,PASS
+quality_tier_interaction_tests.csv nobs numeric_match,True,True,replayed_table,PASS
+quality_tier_interaction_tests.csv countries numeric_match,True,True,replayed_table,PASS
+quality_tier_interaction_tests.csv status exact_match,True,True,replayed_table,PASS
+reported_heading_arithmetic.csv shape,"(189, 11)","(189, 11)",replayed_table,PASS
+reported_heading_arithmetic.csv columns,"['id', 'iso3', 'delta_total_t', 'delta_HIF_t', 'delta_residual_t', 'coverage0', 'coverage1', 'six_headings_complete', 'mineral_oils_observed', 'delta_3_other_reported_headings_t', 'unallocated_balance_delta_t']","['id', 'iso3', 'delta_total_t', 'delta_HIF_t', 'delta_residual_t', 'coverage0', 'coverage1', 'six_headings_complete', 'mineral_oils_observed', 'delta_3_other_reported_headings_t', 'unallocated_balance_delta_t']",replayed_table,PASS
+reported_heading_arithmetic.csv id exact_match,True,True,replayed_table,PASS
+reported_heading_arithmetic.csv iso3 exact_match,True,True,replayed_table,PASS
+reported_heading_arithmetic.csv delta_total_t numeric_match,True,True,replayed_table,PASS
+reported_heading_arithmetic.csv delta_HIF_t numeric_match,True,True,replayed_table,PASS
+reported_heading_arithmetic.csv delta_residual_t numeric_match,True,True,replayed_table,PASS
+reported_heading_arithmetic.csv coverage0 numeric_match,True,True,replayed_table,PASS
+reported_heading_arithmetic.csv coverage1 numeric_match,True,True,replayed_table,PASS
+reported_heading_arithmetic.csv six_headings_complete numeric_match,True,True,replayed_table,PASS
+reported_heading_arithmetic.csv mineral_oils_observed numeric_match,True,True,replayed_table,PASS
+reported_heading_arithmetic.csv delta_3_other_reported_headings_t numeric_match,True,True,replayed_table,PASS
+reported_heading_arithmetic.csv unallocated_balance_delta_t numeric_match,True,True,replayed_table,PASS
+source_flags_by_income.csv shape,"(16, 4)","(16, 4)",replayed_table,PASS
+source_flags_by_income.csv columns,"['income', 'p_kg_flag', 'country_years', 'within_group_share']","['income', 'p_kg_flag', 'country_years', 'within_group_share']",replayed_table,PASS
+source_flags_by_income.csv income exact_match,True,True,replayed_table,PASS
+source_flags_by_income.csv p_kg_flag exact_match,True,True,replayed_table,PASS
+source_flags_by_income.csv country_years numeric_match,True,True,replayed_table,PASS
+source_flags_by_income.csv within_group_share numeric_match,True,True,replayed_table,PASS
+source_flags_by_region.csv shape,"(28, 4)","(28, 4)",replayed_table,PASS
+source_flags_by_region.csv columns,"['region', 'p_kg_flag', 'country_years', 'within_group_share']","['region', 'p_kg_flag', 'country_years', 'within_group_share']",replayed_table,PASS
+source_flags_by_region.csv region exact_match,True,True,replayed_table,PASS
+source_flags_by_region.csv p_kg_flag exact_match,True,True,replayed_table,PASS
+source_flags_by_region.csv country_years numeric_match,True,True,replayed_table,PASS
+source_flags_by_region.csv within_group_share numeric_match,True,True,replayed_table,PASS
+state_continuation_bootstrap.csv shape,"(3, 7)","(3, 7)",replayed_table,PASS
+state_continuation_bootstrap.csv columns,"['from_state', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']","['from_state', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']",replayed_table,PASS
+state_continuation_bootstrap.csv from_state exact_match,True,True,replayed_table,PASS
+state_continuation_bootstrap.csv n numeric_match,True,True,replayed_table,PASS
+state_continuation_bootstrap.csv countries numeric_match,True,True,replayed_table,PASS
+state_continuation_bootstrap.csv events numeric_match,True,True,replayed_table,PASS
+state_continuation_bootstrap.csv estimate numeric_match,True,True,replayed_table,PASS
+state_continuation_bootstrap.csv ci_low numeric_match,True,True,replayed_table,PASS
+state_continuation_bootstrap.csv ci_high numeric_match,True,True,replayed_table,PASS
+state_transition_opportunities.csv shape,"(1180, 6)","(1180, 6)",replayed_table,PASS
+state_transition_opportunities.csv columns,"['iso3', 'from_period', 'to_period', 'from_state', 'to_state', 'shared_middle_mean']","['iso3', 'from_period', 'to_period', 'from_state', 'to_state', 'shared_middle_mean']",replayed_table,PASS
+state_transition_opportunities.csv iso3 exact_match,True,True,replayed_table,PASS
+state_transition_opportunities.csv from_period numeric_match,True,True,replayed_table,PASS
+state_transition_opportunities.csv to_period numeric_match,True,True,replayed_table,PASS
+state_transition_opportunities.csv from_state exact_match,True,True,replayed_table,PASS
+state_transition_opportunities.csv to_state exact_match,True,True,replayed_table,PASS
+state_transition_opportunities.csv shared_middle_mean numeric_match,True,True,replayed_table,PASS
+total_output_growth_deadband_sensitivity.csv shape,"(12, 8)","(12, 8)",replayed_table,PASS
+total_output_growth_deadband_sensitivity.csv columns,"['growth_margin', 'event', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']","['growth_margin', 'event', 'n', 'countries', 'events', 'estimate', 'ci_low', 'ci_high']",replayed_table,PASS
+total_output_growth_deadband_sensitivity.csv growth_margin numeric_match,True,True,replayed_table,PASS
+total_output_growth_deadband_sensitivity.csv event exact_match,True,True,replayed_table,PASS
+total_output_growth_deadband_sensitivity.csv n numeric_match,True,True,replayed_table,PASS
+total_output_growth_deadband_sensitivity.csv countries numeric_match,True,True,replayed_table,PASS
+total_output_growth_deadband_sensitivity.csv events numeric_match,True,True,replayed_table,PASS
+total_output_growth_deadband_sensitivity.csv estimate numeric_match,True,True,replayed_table,PASS
+total_output_growth_deadband_sensitivity.csv ci_low numeric_match,True,True,replayed_table,PASS
+total_output_growth_deadband_sensitivity.csv ci_high numeric_match,True,True,replayed_table,PASS
+transition_matrix_including_undetermined.csv shape,"(15, 4)","(15, 4)",replayed_table,PASS
+transition_matrix_including_undetermined.csv columns,"['from_state', 'to_state', 'n', 'row_probability']","['from_state', 'to_state', 'n', 'row_probability']",replayed_table,PASS
+transition_matrix_including_undetermined.csv from_state exact_match,True,True,replayed_table,PASS
+transition_matrix_including_undetermined.csv to_state exact_match,True,True,replayed_table,PASS
+transition_matrix_including_undetermined.csv n numeric_match,True,True,replayed_table,PASS
+transition_matrix_including_undetermined.csv row_probability numeric_match,True,True,replayed_table,PASS
+transition_matrix_study_countries.csv shape,"(15, 4)","(15, 4)",replayed_table,PASS
+transition_matrix_study_countries.csv columns,"['from_state', 'to_state', 'n', 'row_probability']","['from_state', 'to_state', 'n', 'row_probability']",replayed_table,PASS
+transition_matrix_study_countries.csv from_state exact_match,True,True,replayed_table,PASS
+transition_matrix_study_countries.csv to_state exact_match,True,True,replayed_table,PASS
+transition_matrix_study_countries.csv n numeric_match,True,True,replayed_table,PASS
+transition_matrix_study_countries.csv row_probability numeric_match,True,True,replayed_table,PASS
+S15 exact copy,True,True,frozen_provenance,PASS
+absolute_continuation_by_quality.csv CI_order,True,True,frozen_interval_integrity,PASS
+agricultural_scale_weighted_incidence.csv CI_order,True,True,frozen_interval_integrity,PASS
+category_incidence_bootstrap.csv CI_order,True,True,frozen_interval_integrity,PASS
+class_and_total_flag_quality.csv CI_order,True,True,frozen_interval_integrity,PASS
+class_share_quantity_crossclassification.csv CI_order,True,True,frozen_interval_integrity,PASS
+comparable_period_contrasts.csv CI_order,True,True,frozen_interval_integrity,PASS
+core_sensitivity_bootstrap.csv CI_order,True,True,frozen_interval_integrity,PASS
+divergence_by_region_income_period.csv CI_order,True,True,frozen_interval_integrity,PASS
+divergence_incidence_bootstrap.csv CI_order,True,True,frozen_interval_integrity,PASS
+economic_models_coefficients.csv CI_order,True,True,frozen_interval_integrity,PASS
+quality_tier_interaction_tests.csv CI_order,True,True,frozen_interval_integrity,PASS
+state_continuation_bootstrap.csv CI_order,True,True,frozen_interval_integrity,PASS
+TableS15_absolute_continuation_quality.csv CI_order,True,True,frozen_interval_integrity,PASS
+total_output_growth_deadband_sensitivity.csv CI_order,True,True,frozen_interval_integrity,PASS
+source_hash data/processed/annual_reverified.csv,a8b20cd41962081c88e473753c9673d8d838261e40c37a8e6aa4a8c3a85f7553,a8b20cd41962081c88e473753c9673d8d838261e40c37a8e6aa4a8c3a85f7553,frozen_provenance,PASS
+source_hash data/processed/original_source_rows.csv,504a593ca8377496aad156cd400d7a5fcd60ea2f88dbc592f0839d88f59172b2,504a593ca8377496aad156cd400d7a5fcd60ea2f88dbc592f0839d88f59172b2,frozen_provenance,PASS
+source_hash data/processed/panel_country_year.csv,825692e740720626b2ab9b9841dbbb021574d9cebbeb8d4702d7bca84117dc4e,825692e740720626b2ab9b9841dbbb021574d9cebbeb8d4702d7bca84117dc4e,frozen_provenance,PASS
+source_hash data/source_extracts/QI_selected_original_rows.csv,19e9f372a8440f5fc2eb3c94aef49ed55eee8da972ccf17e64ef66ff23251603,19e9f372a8440f5fc2eb3c94aef49ed55eee8da972ccf17e64ef66ff23251603,frozen_provenance,PASS
+source_hash data/source_extracts/QV_selected_original_rows.csv,32d9cf4d663ff1b462e0b1072d2af808d08fac428e31392a1090d426d97e80cb,32d9cf4d663ff1b462e0b1072d2af808d08fac428e31392a1090d426d97e80cb,frozen_provenance,PASS
+source_hash data/source_extracts/RL_selected_original_rows.csv,b00f7572f97f5788d92ba9a59357bc86ec3734bd7e17c55f3e960d3f3a8dba02,b00f7572f97f5788d92ba9a59357bc86ec3734bd7e17c55f3e960d3f3a8dba02,frozen_provenance,PASS
+source_hash data/source_extracts/RP_selected_original_rows.csv,78ebbe746854028f4c56bfb074f10ad63e7f94e9ca2afd6e91aef3d12e80751a,78ebbe746854028f4c56bfb074f10ad63e7f94e9ca2afd6e91aef3d12e80751a,frozen_provenance,PASS
+source_hash data/metadata/country_crosswalk.csv,0c4014bc7315834ac36870dc917e760964a4770b76ab950caf964c7a4393f6d8,0c4014bc7315834ac36870dc917e760964a4770b76ab950caf964c7a4393f6d8,frozen_provenance,PASS
+source_hash data/metadata/country_notes_coded_changes.csv,32952475fb02f3e47c65580c4dc36387a63d8ba02f99c339284673e6c1848bad,32952475fb02f3e47c65580c4dc36387a63d8ba02f99c339284673e6c1848bad,frozen_provenance,PASS
+source_hash data/metadata/country_proxy_notes.csv,1e9c12735069063531fb2be335b592d2e5ed565674bc6286fec57a3cecc46dc5,1e9c12735069063531fb2be335b592d2e5ed565674bc6286fec57a3cecc46dc5,frozen_provenance,PASS
+source_hash data/metadata/wb_country_metadata.csv,82be5403d5ba57e07c16225a130ddf0580480c754930cd1582010bacaf95e9a6,82be5403d5ba57e07c16225a130ddf0580480c754930cd1582010bacaf95e9a6,frozen_provenance,PASS
+source_hash data/metadata/source_register.csv,e0d701bda80eca8443268a601dcc9f6762045b4c1d8ae59765c6d828e09254ed,e0d701bda80eca8443268a601dcc9f6762045b4c1d8ae59765c6d828e09254ed,frozen_provenance,PASS
+source_hash data/metadata/data_dictionary.csv,9784457d683ae920457c568e9841f59c673d8c496f93590d03f7d8022bf57231,9784457d683ae920457c568e9841f59c673d8c496f93590d03f7d8022bf57231,frozen_provenance,PASS
+source_hash data/metadata/selected_units.csv,3e2c3e67061cfb1ccde947bbb180890e49ab1c065289744468e248602babf7c4,3e2c3e67061cfb1ccde947bbb180890e49ab1c065289744468e248602babf7c4,frozen_provenance,PASS
+source_hash data/metadata/country_quality.csv,7f743497c5bd2f557f7f338f464523ab4367061e843b83a08673616c11b19b95,7f743497c5bd2f557f7f338f464523ab4367061e843b83a08673616c11b19b95,frozen_provenance,PASS
+source_hash data/metadata/PHASE2_DATA_DICTIONARY.csv,f7c69a626edfcbcfd6bc58007a872607f1189a85a94db0303dd483b610ab3564,f7c69a626edfcbcfd6bc58007a872607f1189a85a94db0303dd483b610ab3564,frozen_provenance,PASS
+source_hash reproducibility/inference_config.json,30ee7db1e349fc592191012b67803f315e8e2b6530614635accd4d204f8be440,30ee7db1e349fc592191012b67803f315e8e2b6530614635accd4d204f8be440,frozen_provenance,PASS
+source_hash results/tables/absolute_200_to_189_exclusions.csv,376e66ce6e1efe9f19589ea6f44205f4cd612d69fe780c1bf7759d0a60787b1e,376e66ce6e1efe9f19589ea6f44205f4cd612d69fe780c1bf7759d0a60787b1e,frozen_provenance,PASS
+source_hash results/tables/absolute_all_200.csv,517f550b46ecc3254d2ef6855e0694c5787a954394e2c5a4f1f67501b75955c7,517f550b46ecc3254d2ef6855e0694c5787a954394e2c5a4f1f67501b75955c7,frozen_provenance,PASS
+source_hash results/tables/absolute_category_changes_long.csv,1bab32bd24ede9672d81a5b99e812671fd6b498266d513ae4436586b972f38f8,1bab32bd24ede9672d81a5b99e812671fd6b498266d513ae4436586b972f38f8,frozen_provenance,PASS
+source_hash results/tables/absolute_class_flag_composition.csv,35e62ce6672ec440014b4f6144899b1f9e9d6fd08a377fe1d1585172fa1ce91e,35e62ce6672ec440014b4f6144899b1f9e9d6fd08a377fe1d1585172fa1ce91e,frozen_provenance,PASS
+source_hash results/tables/absolute_common_support_189.csv,337a9b8f8a8c780d9dbe17ee723b4be6219170b1dfa3e23f31a766915f6d3b59,337a9b8f8a8c780d9dbe17ee723b4be6219170b1dfa3e23f31a766915f6d3b59,frozen_provenance,PASS
+source_hash results/tables/absolute_common_support_entrants.csv,26d09a2354fa73b4a8d88254e5e7f4c4730d2675244009ad00321018fe59d9ed,26d09a2354fa73b4a8d88254e5e7f4c4730d2675244009ad00321018fe59d9ed,frozen_provenance,PASS
+source_hash results/tables/absolute_continuation_by_quality.csv,f9eff79be05385000e69e5f7a6494deb426dd3ee9ec32ec9c81801ba34ad0c5f,f9eff79be05385000e69e5f7a6494deb426dd3ee9ec32ec9c81801ba34ad0c5f,frozen_provenance,PASS
+source_hash results/tables/absolute_persistence_by_quality.csv,42d6e271fa364e4ef77200f23a616c54157dbd92e88b9e72f75836a2d6500a95,42d6e271fa364e4ef77200f23a616c54157dbd92e88b9e72f75836a2d6500a95,frozen_provenance,PASS
+source_hash results/tables/absolute_persistence_country.csv,5261bf666b4bb1a074c8825461072490185c2138342c4011d086120641df502c,5261bf666b4bb1a074c8825461072490185c2138342c4011d086120641df502c,frozen_provenance,PASS
+source_hash results/tables/absolute_persistence_summary.csv,b4589cfa1ee0bdb104e0596af3f3d772a4040ef9c94d9d13f222522916f841f9,b4589cfa1ee0bdb104e0596af3f3d772a4040ef9c94d9d13f222522916f841f9,frozen_provenance,PASS
+source_hash results/tables/agricultural_scale_weighted_incidence.csv,812b469ab52ae503bec89a4ab47f247329bea591be8d545f605ee49f8c1acf24,812b469ab52ae503bec89a4ab47f247329bea591be8d545f605ee49f8c1acf24,frozen_provenance,PASS
+source_hash results/tables/category_incidence_bootstrap.csv,503e07d74aa1a1967446866e6d07bfd720505e96d6dba888f4180f3a6abd749a,503e07d74aa1a1967446866e6d07bfd720505e96d6dba888f4180f3a6abd749a,frozen_provenance,PASS
+source_hash results/tables/class_and_total_flag_quality.csv,6f52d6f4ac1d0934db4070936b531d9e4c82fa6a66bc2d02767c93a0fdd55ac6,6f52d6f4ac1d0934db4070936b531d9e4c82fa6a66bc2d02767c93a0fdd55ac6,frozen_provenance,PASS
+source_hash results/tables/class_share_quantity_crossclassification.csv,b2fbd1125d4f31c661fd33ee0afc2c93471b9a697cdf13cb5fc6e9137484890c,b2fbd1125d4f31c661fd33ee0afc2c93471b9a697cdf13cb5fc6e9137484890c,frozen_provenance,PASS
+source_hash results/tables/common_absolute_category_magnitudes.csv,2cea5af3499054d876acfda8296e6ff4e56a2b0795ca4a55b92fda1f88075c73,2cea5af3499054d876acfda8296e6ff4e56a2b0795ca4a55b92fda1f88075c73,frozen_provenance,PASS
+source_hash results/tables/comparable_period_contrasts.csv,8e550e35b58a8ec5197e328b126e512f474c273e6391851ec77cd46975241627,8e550e35b58a8ec5197e328b126e512f474c273e6391851ec77cd46975241627,frozen_provenance,PASS
+source_hash results/tables/core_sensitivity_bootstrap.csv,f1074ce25aee01299f5f3749f49fc90f1c47ec8d318c22d7f1e21def7f8a611d,f1074ce25aee01299f5f3749f49fc90f1c47ec8d318c22d7f1e21def7f8a611d,frozen_provenance,PASS
+source_hash results/tables/country_period_all.csv,fc8376f525971b10393fe32ba5abbfc7ebcb6e73cee47d591a0d5ecd221456c0,fc8376f525971b10393fe32ba5abbfc7ebcb6e73cee47d591a0d5ecd221456c0,frozen_provenance,PASS
+source_hash results/tables/divergence_by_region_income_period.csv,de87ea9a26af89c1b68042081c7b9ac412f6d9766bd7fd7d773a3b095392e786,de87ea9a26af89c1b68042081c7b9ac412f6d9766bd7fd7d773a3b095392e786,frozen_provenance,PASS
+source_hash results/tables/divergence_incidence_bootstrap.csv,98536db9ea1fca78f9917955f458b63145bd1de5f3593b17f2c3f2a449c398e5,98536db9ea1fca78f9917955f458b63145bd1de5f3593b17f2c3f2a449c398e5,frozen_provenance,PASS
+source_hash results/tables/divergence_magnitude_distribution.csv,6f192030c88a3849147ec4363cc5774ccf78546307c92416fbea8bd3b43e4a60,6f192030c88a3849147ec4363cc5774ccf78546307c92416fbea8bd3b43e4a60,frozen_provenance,PASS
+source_hash results/tables/economic_models_coefficients.csv,98434bd89dd9b3905bdf68c9f9a8742a87a7353ea3c017fad71f55e0e4943343,98434bd89dd9b3905bdf68c9f9a8742a87a7353ea3c017fad71f55e0e4943343,frozen_provenance,PASS
+source_hash results/tables/economic_model_diagnostics.csv,9860a644687191ccd82341c1ce50d24156eebd31bbd24a8b9b1b657f174cd95c,9860a644687191ccd82341c1ce50d24156eebd31bbd24a8b9b1b657f174cd95c,frozen_provenance,PASS
+source_hash results/tables/economic_model_sample_keys.csv,fc25989507e0ffb4184c4dc8fa3540404b5aa83f9ca30186646236c62bbde561,fc25989507e0ffb4184c4dc8fa3540404b5aa83f9ca30186646236c62bbde561,frozen_provenance,PASS
+source_hash results/tables/large_class_divergence_events.csv,dfa67b82bb97e35d7402ca6b65c37f6a97f084dda793a9be6edae25b8c26348b,dfa67b82bb97e35d7402ca6b65c37f6a97f084dda793a9be6edae25b8c26348b,frozen_provenance,PASS
+source_hash results/tables/leave_one_country_out.csv,1b077f150a58a1bfc5a38c62a5f03931908488c0606756b6286f735aa382d975,1b077f150a58a1bfc5a38c62a5f03931908488c0606756b6286f735aa382d975,frozen_provenance,PASS
+source_hash results/tables/models_not_estimable.csv,68020b44e08471ced845f461a5cee2cbeaf0e7ac8eabea2f54a0a66c6e3c51b4,68020b44e08471ced845f461a5cee2cbeaf0e7ac8eabea2f54a0a66c6e3c51b4,frozen_provenance,PASS
+source_hash results/tables/model_covariate_availability.csv,0a03641c78c41d0af5548732bd52c777d5344c3653aba435b32a6b3f3a5429b1,0a03641c78c41d0af5548732bd52c777d5344c3653aba435b32a6b3f3a5429b1,frozen_provenance,PASS
+source_hash results/tables/model_within_collinearity.csv,c96513f38771381be3a0a9c5eef498a820eed2deed341ccbe318fa00a84c1b65,c96513f38771381be3a0a9c5eef498a820eed2deed341ccbe318fa00a84c1b65,frozen_provenance,PASS
+source_hash results/tables/model_within_correlations.csv,ae432bd3da62d64eba2380c46ac3e1235f3ca98deeb0c565c35409ea265cae5c,ae432bd3da62d64eba2380c46ac3e1235f3ca98deeb0c565c35409ea265cae5c,frozen_provenance,PASS
+source_hash results/tables/nonpositive_category_baselines.csv,c206b59ee886cc3ed33c1e08c9e56a04d8f83d4998267e7769a65c9e2ff63937,c206b59ee886cc3ed33c1e08c9e56a04d8f83d4998267e7769a65c9e2ff63937,frozen_provenance,PASS
+source_hash results/tables/period_grid_including_undetermined.csv,31b7bec83ec49fab8598b758966becd0affe69734e0572770e745eb9243b361d,31b7bec83ec49fab8598b758966becd0affe69734e0572770e745eb9243b361d,frozen_provenance,PASS
+source_hash results/tables/proxy_screen_by_region_income.csv,f415368b305c30a26e30f93aeec24994575db4514a631f4e89a8ec8fb87d993e,f415368b305c30a26e30f93aeec24994575db4514a631f4e89a8ec8fb87d993e,frozen_provenance,PASS
+source_hash results/tables/quality_interaction_sample_keys.csv,4fd63835e61a181f649cb7e390c4a45f6f6ef0983f9ca1b2357948401928cc92,4fd63835e61a181f649cb7e390c4a45f6f6ef0983f9ca1b2357948401928cc92,frozen_provenance,PASS
+source_hash results/tables/quality_tier_interaction_tests.csv,d43b336540ac2e42027a60fa3f91cf873808b71df0754819ceab25e3eb067611,d43b336540ac2e42027a60fa3f91cf873808b71df0754819ceab25e3eb067611,frozen_provenance,PASS
+source_hash results/tables/reported_heading_arithmetic.csv,419946ab520d0c6c232680f344c4cb6099bb6cf4aae336c67e7447f6b6e253ae,419946ab520d0c6c232680f344c4cb6099bb6cf4aae336c67e7447f6b6e253ae,frozen_provenance,PASS
+source_hash results/tables/source_flags_by_income.csv,bdc4538473380c2b534a4601f6245a4afa7a6b0ca5f3f373fbbb1dba2572218c,bdc4538473380c2b534a4601f6245a4afa7a6b0ca5f3f373fbbb1dba2572218c,frozen_provenance,PASS
+source_hash results/tables/source_flags_by_region.csv,14aae75282e7ce2e04cff159114563172c8e70172372fbe070ffc30e26fe37fc,14aae75282e7ce2e04cff159114563172c8e70172372fbe070ffc30e26fe37fc,frozen_provenance,PASS
+source_hash results/tables/source_flags_by_year.csv,ad3bb549512de4bd2aef3dc49228fa0c1d5230735395617004915442887b2bd7,ad3bb549512de4bd2aef3dc49228fa0c1d5230735395617004915442887b2bd7,frozen_provenance,PASS
+source_hash results/tables/state_continuation_bootstrap.csv,45b5c3141e651c31d12cc76ed78b9d5d664f2ce3d27e7804d7ab24c96787884a,45b5c3141e651c31d12cc76ed78b9d5d664f2ce3d27e7804d7ab24c96787884a,frozen_provenance,PASS
+source_hash results/tables/state_transition_opportunities.csv,5594540f0ba6c79afd515b97cd39524a9a158e41b6570ff6861585eb5f2fdefc,5594540f0ba6c79afd515b97cd39524a9a158e41b6570ff6861585eb5f2fdefc,frozen_provenance,PASS
+source_hash results/tables/total_output_growth_deadband_sensitivity.csv,8671a50a1c602954d7ce936511b956af0f39ff0e7d81fb69db19fad30503a237,8671a50a1c602954d7ce936511b956af0f39ff0e7d81fb69db19fad30503a237,frozen_provenance,PASS
+source_hash results/tables/transition_matrix_including_undetermined.csv,22909ec6b2e9de07e69ba2c1608ddef5de881ea506aa125d8d8c7d234619d28e,22909ec6b2e9de07e69ba2c1608ddef5de881ea506aa125d8d8c7d234619d28e,frozen_provenance,PASS
+source_hash results/tables/transition_matrix_study_countries.csv,118525f363023ce3acdab3591c57069a3275748e24015a218bb0bb67d973085d,118525f363023ce3acdab3591c57069a3275748e24015a218bb0bb67d973085d,frozen_provenance,PASS
+source_hash results/tables/official_world_and_matched_country_totals.csv,7a66a7f7bd30cbaed955575a939c692d98156383fe80570fafde7ec88596a83c,7a66a7f7bd30cbaed955575a939c692d98156383fe80570fafde7ec88596a83c,frozen_provenance,PASS
+source_hash results/tables/balanced_global_trends.csv,626605e9b54788679e6ffcbe9a141b86bb74ce78f6290d3367e9a0304f6214c2,626605e9b54788679e6ffcbe9a141b86bb74ce78f6290d3367e9a0304f6214c2,frozen_provenance,PASS
+source_hash results/tables/TableS10_CHN_weight_exclusion_sensitivity.csv,6a102ee6638c160b43a9c5666d4f7a6787e4e471f341bea69ca496b62e4812e4,6a102ee6638c160b43a9c5666d4f7a6787e4e471f341bea69ca496b62e4812e4,frozen_provenance,PASS
+source_hash results/tables/TableS11_country_baseline_weight_concentration.csv,e1b63a7e281ce2b207d7bf05c9a0d9a70e7f4a1437722c7433e3ef9f2727b843,e1b63a7e281ce2b207d7bf05c9a0d9a70e7f4a1437722c7433e3ef9f2727b843,frozen_provenance,PASS
+source_hash results/tables/TableS9_boundary_threshold_sensitivity.csv,166042dcf57f45bcdc1613ffee05afba3f1ddc40aa2aad20c55eec71ae46737c,166042dcf57f45bcdc1613ffee05afba3f1ddc40aa2aad20c55eec71ae46737c,frozen_provenance,PASS
+source_hash results/tables/TableS14_StrictA_Region_Period_Distribution.csv,a644ba08fa9edf9a90bc2999a10468e7e7083117a5f59ba2854efd48696d527c,a644ba08fa9edf9a90bc2999a10468e7e7083117a5f59ba2854efd48696d527c,frozen_provenance,PASS
+source_hash results/tables/TableS15_absolute_continuation_quality.csv,f9eff79be05385000e69e5f7a6494deb426dd3ee9ec32ec9c81801ba34ad0c5f,f9eff79be05385000e69e5f7a6494deb426dd3ee9ec32ec9c81801ba34ad0c5f,frozen_provenance,PASS
+source_hash reproducibility/figure_source_map.csv,fe81b6040b72e6851864431368f37ab5f3dda1a8a5bf532c4c85b92767c55e8a,fe81b6040b72e6851864431368f37ab5f3dda1a8a5bf532c4c85b92767c55e8a,frozen_provenance,PASS
+source_hash reproducibility/result_to_source_map.csv,f89fc24c8b3993257bc65f3f6335c124886bcb120372876bd74e88638fa40293,f89fc24c8b3993257bc65f3f6335c124886bcb120372876bd74e88638fa40293,frozen_provenance,PASS
+source_hash scripts/decoupling/build.py,13a24f7a60ab6f2d93774ee850c761e4ec2e33bedf403d6e735cbeb27040008a,13a24f7a60ab6f2d93774ee850c761e4ec2e33bedf403d6e735cbeb27040008a,frozen_provenance,PASS
+source_hash scripts/statistical_analysis/analyze.py,5c1b8fa6b743abc5542eb713ee3258a3399b782e5279f20d4abbc62ea2183f3d,5c1b8fa6b743abc5542eb713ee3258a3399b782e5279f20d4abbc62ea2183f3d,frozen_provenance,PASS
+source_hash scripts/statistical_analysis/additional_checks.py,7df65c806ed27ae622a68120d5f8d1d408d8a1576396925b4b31e9b11f66675f,7df65c806ed27ae622a68120d5f8d1d408d8a1576396925b4b31e9b11f66675f,frozen_provenance,PASS
+source_hash scripts/data_preparation/phase1_pipeline.py,04360384047994b6c9245e5d2adcb109bb0bf31ac0994e0c055eb30f81aece9e,04360384047994b6c9245e5d2adcb109bb0bf31ac0994e0c055eb30f81aece9e,frozen_provenance,PASS
+source_hash scripts/decoupling/recompute_targeted.py,2c8f275c571e079e61026a633a983dded7984fc3dc584a99171fcec9b69664fd,2c8f275c571e079e61026a633a983dded7984fc3dc584a99171fcec9b69664fd,frozen_provenance,PASS
+source_hash data/metadata/USER_REFERENCE_boundary_sensitivity.csv,5650ad218d2413cb1b79113697b0915faeb01178bfc73539ed636239975ca9ee,5650ad218d2413cb1b79113697b0915faeb01178bfc73539ed636239975ca9ee,frozen_provenance,PASS
+source_hash scripts/figures/phase2_figures.py,d273eba6978300b30c431cd0d33fcc197d8ee68642d320c2d1ae20da741f5cac,d273eba6978300b30c431cd0d33fcc197d8ee68642d320c2d1ae20da741f5cac,frozen_provenance,PASS
+source_hash scripts/figures/refine_figure2.py,a94d3b19376a6be349f8de714bb8dbd1d4d83f4c608ab61550121a95875c6aa7,a94d3b19376a6be349f8de714bb8dbd1d4d83f4c608ab61550121a95875c6aa7,frozen_provenance,PASS
+source_hash scripts/figures/layout_sample_flow.py,860bb500e542ae7da9394bda8c9faefa4243451c227eea4cce7d97d0cc3fec5f,860bb500e542ae7da9394bda8c9faefa4243451c227eea4cce7d97d0cc3fec5f,frozen_provenance,PASS
+source_hash scripts/figures/final_main_recipes.py,616d828addf2c19eb6c1a836866606ba6d5cd8fec34e679a570fc4ff6a20dbc2,616d828addf2c19eb6c1a836866606ba6d5cd8fec34e679a570fc4ff6a20dbc2,frozen_provenance,PASS
+source_hash data/metadata/wb_metadata_AG.PRD.CROP.XD.json,c671be7d7f659759621b502c59b673efc3d3f168f4161d914d39ce35eb8c2adb,c671be7d7f659759621b502c59b673efc3d3f168f4161d914d39ce35eb8c2adb,frozen_provenance,PASS
+source_hash data/metadata/wb_metadata_NV.AGR.TOTL.KD.json,bcb35dfc8dddae44a40708b7f9c9d14e0e8fd103c715e31448cfb422749adf84,bcb35dfc8dddae44a40708b7f9c9d14e0e8fd103c715e31448cfb422749adf84,frozen_provenance,PASS
+source_hash data/metadata/wb_metadata_NY.GDP.PCAP.KD.json,46689488cd435920647264ede1bfb2d4b51b09800fb36f3d3b1422a0b11ea49d,46689488cd435920647264ede1bfb2d4b51b09800fb36f3d3b1422a0b11ea49d,frozen_provenance,PASS
+source_hash results/figures/Fig1_trends_and_reporting.pdf,38ae764088829522aa5894ff654e61e6271ef2a80bec6cc97f9efa65572496ac,38ae764088829522aa5894ff654e61e6271ef2a80bec6cc97f9efa65572496ac,frozen_provenance,PASS
+source_hash results/figures/Fig1_trends_and_reporting.png,d3ae643a1aba1a6414d3f0dbdae32aa2cfa5a230324986f8a16dcb02e9ae3dfe,d3ae643a1aba1a6414d3f0dbdae32aa2cfa5a230324986f8a16dcb02e9ae3dfe,frozen_provenance,PASS
+source_hash results/figures/Fig1_trends_and_reporting.svg,c90dab2f876e2e0e07fc906b6075f45a7b2557096ec8d5bf980e784e3955058d,c90dab2f876e2e0e07fc906b6075f45a7b2557096ec8d5bf980e784e3955058d,frozen_provenance,PASS
+source_hash results/figures/Fig2_continuation_and_opportunities.pdf,46f360994e9d6b8e66eaa44b7aac5e72be0ded3644a24da082b227063f39e9e7,46f360994e9d6b8e66eaa44b7aac5e72be0ded3644a24da082b227063f39e9e7,frozen_provenance,PASS
+source_hash results/figures/Fig2_continuation_and_opportunities.png,052cbbd5cde6a3405398a702d74a191ce47bb64bb589546a9097ed024df6880a,052cbbd5cde6a3405398a702d74a191ce47bb64bb589546a9097ed024df6880a,frozen_provenance,PASS
+source_hash results/figures/Fig2_continuation_and_opportunities.svg,5010e9e6f33dcd1b76c63cab3b9acd076fb33947cdd9791fa3a86a689431e53b,5010e9e6f33dcd1b76c63cab3b9acd076fb33947cdd9791fa3a86a689431e53b,frozen_provenance,PASS
+source_hash results/figures/Fig3_class_thresholds_and_weights.pdf,f5fc3e727a52d0ca7911a2922b5fd9af3210f99026a4cd666184b1a70dd53fb3,f5fc3e727a52d0ca7911a2922b5fd9af3210f99026a4cd666184b1a70dd53fb3,frozen_provenance,PASS
+source_hash results/figures/Fig3_class_thresholds_and_weights.png,608d09fbde968b247521db76d35a58c703be2b2940eb47df89e81cda9551d9c0,608d09fbde968b247521db76d35a58c703be2b2940eb47df89e81cda9551d9c0,frozen_provenance,PASS
+source_hash results/figures/Fig3_class_thresholds_and_weights.svg,c905bc5400edf012c13563bfca1dd247f806b1f075e8ab9e6662ed2cd0c64da8,c905bc5400edf012c13563bfca1dd247f806b1f075e8ab9e6662ed2cd0c64da8,frozen_provenance,PASS
+source_hash results/figures/FigS1_full_coverage_grid.pdf,562fe34b15043db7ab40b44199a61828858fda875fe71a672ac84aed25bd0ec9,562fe34b15043db7ab40b44199a61828858fda875fe71a672ac84aed25bd0ec9,frozen_provenance,PASS
+source_hash results/figures/FigS1_full_coverage_grid.png,fb6815697f137fac94d75bbd011f6f613a9d4dc21f57e8825fd1a3795cdfa19a,fb6815697f137fac94d75bbd011f6f613a9d4dc21f57e8825fd1a3795cdfa19a,frozen_provenance,PASS
+source_hash results/figures/FigS1_full_coverage_grid.svg,e35d5cf2bcf39e9714c92bdc0f79db40a61b02fbaa77df842e050255c811c0c8,e35d5cf2bcf39e9714c92bdc0f79db40a61b02fbaa77df842e050255c811c0c8,frozen_provenance,PASS
+source_hash results/figures/FigS2_economic_associations.pdf,52305fc7e438dbdd8e24f9bdc9b7e08302de33ba9a8b91d53c463889139bd54d,52305fc7e438dbdd8e24f9bdc9b7e08302de33ba9a8b91d53c463889139bd54d,frozen_provenance,PASS
+source_hash results/figures/FigS2_economic_associations.png,193e7133a2431f2ecd05d2780722b8348e750f3e73d16a2a4c7719832f5637ab,193e7133a2431f2ecd05d2780722b8348e750f3e73d16a2a4c7719832f5637ab,frozen_provenance,PASS
+source_hash results/figures/FigS2_economic_associations.svg,55f88d8db8d2cb29601f39ac42f04f8c4155d79618cc9a929bff2fbd04486134,55f88d8db8d2cb29601f39ac42f04f8c4155d79618cc9a929bff2fbd04486134,frozen_provenance,PASS
+source_hash results/figures/FigS3_quality_and_window_sensitivity.pdf,830d0a01d8a7fead6f8ee9d35926d16e818d611e049a89607f6c555c2ce1237c,830d0a01d8a7fead6f8ee9d35926d16e818d611e049a89607f6c555c2ce1237c,frozen_provenance,PASS
+source_hash results/figures/FigS3_quality_and_window_sensitivity.png,b727cf6af31213af7be23a8d785bf130fb9dca4ae281d951bc16b0695bde60f2,b727cf6af31213af7be23a8d785bf130fb9dca4ae281d951bc16b0695bde60f2,frozen_provenance,PASS
+source_hash results/figures/FigS3_quality_and_window_sensitivity.svg,6cbd6e6bd2df1eb94b95986dd9f569ef6b3d002ff904cca08edd1dd1cfa8d1fb,6cbd6e6bd2df1eb94b95986dd9f569ef6b3d002ff904cca08edd1dd1cfa8d1fb,frozen_provenance,PASS
+source_hash results/figures/FigS4_region_and_income.pdf,78d5685f68fa9846aafc556824d7edb151f313cf8e6f914849d02ff9fb963bea,78d5685f68fa9846aafc556824d7edb151f313cf8e6f914849d02ff9fb963bea,frozen_provenance,PASS
+source_hash results/figures/FigS4_region_and_income.png,a2c86032489ddf000d4e16ffbe4ff2461aef90f27814a2d98c71f26f7bdf92a6,a2c86032489ddf000d4e16ffbe4ff2461aef90f27814a2d98c71f26f7bdf92a6,frozen_provenance,PASS
+source_hash results/figures/FigS4_region_and_income.svg,4fadfac420119434db77980d95645cab5b72233a4c5b20f8df85e92abcd6089a,4fadfac420119434db77980d95645cab5b72233a4c5b20f8df85e92abcd6089a,frozen_provenance,PASS
+source_hash results/figures/FigS5_class_magnitudes_and_comparators.pdf,a9bf09cee92e66441e0374697ec9f04070c6cd502535c3b60614823551ce4d3d,a9bf09cee92e66441e0374697ec9f04070c6cd502535c3b60614823551ce4d3d,frozen_provenance,PASS
+source_hash results/figures/FigS5_class_magnitudes_and_comparators.png,7983046c46a76c80c91da15ca20a5b61fbe39db21da05c931e9069d5961e624c,7983046c46a76c80c91da15ca20a5b61fbe39db21da05c931e9069d5961e624c,frozen_provenance,PASS
+source_hash results/figures/FigS5_class_magnitudes_and_comparators.svg,3513c9093ed5876b9c3de3550152e39c6980b5efb25e8b96516e2d7b38acc56b,3513c9093ed5876b9c3de3550152e39c6980b5efb25e8b96516e2d7b38acc56b,frozen_provenance,PASS
+source_hash results/figures/FigS6_methods_and_flow.pdf,05e0c11bdcf9d840d4df93802118e3513b1c8d8ddda0b40fbb01a6a76f941611,05e0c11bdcf9d840d4df93802118e3513b1c8d8ddda0b40fbb01a6a76f941611,frozen_provenance,PASS
+source_hash results/figures/FigS6_methods_and_flow.png,a37301b34fbc61224a0f301d588610fabe4b5d4daaa2c3bd71061a44523fbe36,a37301b34fbc61224a0f301d588610fabe4b5d4daaa2c3bd71061a44523fbe36,frozen_provenance,PASS
+source_hash results/figures/FigS6_methods_and_flow.svg,1e6c4d08f0e02edd92e247e59a37dd0d420598d4b663dbc6745bde7fe94710f7,1e6c4d08f0e02edd92e247e59a37dd0d420598d4b663dbc6745bde7fe94710f7,frozen_provenance,PASS
+v1.4_figure_files,18,18,frozen_figure_integrity,PASS

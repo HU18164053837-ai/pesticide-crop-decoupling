@@ -1,0 +1,212 @@
+﻿check,status,detail
+main image count,PASS,3
+main embedded figure 1,PASS,d3ae643a1aba1a6414d3f0dbdae32aa2cfa5a230324986f8a16dcb02e9ae3dfe
+main embedded figure 2,PASS,052cbbd5cde6a3405398a702d74a191ce47bb64bb589546a9097ed024df6880a
+main embedded figure 3,PASS,608d09fbde968b247521db76d35a58c703be2b2940eb47df89e81cda9551d9c0
+main exact table 1,PASS,All table cells preserved
+main exact table 2,PASS,All table cells preserved
+supplement image count,PASS,6
+supplement embedded figure 1,PASS,fb6815697f137fac94d75bbd011f6f613a9d4dc21f57e8825fd1a3795cdfa19a
+supplement embedded figure 2,PASS,193e7133a2431f2ecd05d2780722b8348e750f3e73d16a2a4c7719832f5637ab
+supplement embedded figure 3,PASS,b727cf6af31213af7be23a8d785bf130fb9dca4ae281d951bc16b0695bde60f2
+supplement embedded figure 4,PASS,a2c86032489ddf000d4e16ffbe4ff2461aef90f27814a2d98c71f26f7bdf92a6
+supplement embedded figure 5,PASS,7983046c46a76c80c91da15ca20a5b61fbe39db21da05c931e9069d5961e624c
+supplement embedded figure 6,PASS,a37301b34fbc61224a0f301d588610fabe4b5d4daaa2c3bd71061a44523fbe36
+supplement exact table 1,PASS,All table cells preserved
+supplement exact table 2,PASS,All table cells preserved
+supplement exact table 3,PASS,All table cells preserved
+supplement exact table 4,PASS,All table cells preserved
+supplement exact table 5,PASS,All table cells preserved
+supplement exact table 6,PASS,All table cells preserved
+supplement exact table 7,PASS,All table cells preserved
+supplement exact table 8,PASS,All table cells preserved
+supplement exact table 9,PASS,All table cells preserved
+supplement exact table 10,PASS,All table cells preserved
+supplement exact table 11,PASS,All table cells preserved
+supplement exact table 12,PASS,All table cells preserved
+supplement exact table 13,PASS,All table cells preserved
+supplement exact table 14,PASS,All table cells preserved
+supplement exact table 15,PASS,All table cells preserved
+supplement exact table 16,PASS,All table cells preserved
+supplement exact table 17,PASS,All table cells preserved
+supplement exact table 18,PASS,All table cells preserved
+supplement exact table 19,PASS,All table cells preserved
+supplement exact table 20,PASS,All table cells preserved
+supplement exact table 21,PASS,All table cells preserved
+supplement exact table 22,PASS,All table cells preserved
+supplement exact table 23,PASS,All table cells preserved
+supplement exact table 24,PASS,All table cells preserved
+main Table2 55/171,PASS,32.2%
+main Table2 86/456,PASS,18.9%
+main Table2 16/109,PASS,14.7%
+main Table2 80/189,PASS,42.3%
+main Table2 35/122,PASS,28.7%
+SI model term absolute_all_baseline ln_gdppc0,PASS,original model term
+SI model coefficient absolute_all_baseline ln_gdppc0,PASS,4-decimal stored coefficient
+SI model CI absolute_all_baseline ln_gdppc0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_all_baseline ln_cropland0,PASS,original model term
+SI model coefficient absolute_all_baseline ln_cropland0,PASS,4-decimal stored coefficient
+SI model CI absolute_all_baseline ln_cropland0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_all_baseline ln_crop_intensity0,PASS,original model term
+SI model coefficient absolute_all_baseline ln_crop_intensity0,PASS,4-decimal stored coefficient
+SI model CI absolute_all_baseline ln_crop_intensity0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_all_baseline_same_enhanced_sample ln_gdppc0,PASS,original model term
+SI model coefficient absolute_all_baseline_same_enhanced_sample ln_gdppc0,PASS,4-decimal stored coefficient
+SI model CI absolute_all_baseline_same_enhanced_sample ln_gdppc0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_all_baseline_same_enhanced_sample ln_cropland0,PASS,original model term
+SI model coefficient absolute_all_baseline_same_enhanced_sample ln_cropland0,PASS,4-decimal stored coefficient
+SI model CI absolute_all_baseline_same_enhanced_sample ln_cropland0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_all_baseline_same_enhanced_sample ln_crop_intensity0,PASS,original model term
+SI model coefficient absolute_all_baseline_same_enhanced_sample ln_crop_intensity0,PASS,4-decimal stored coefficient
+SI model CI absolute_all_baseline_same_enhanced_sample ln_crop_intensity0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_all_enhanced ln_gdppc0,PASS,original model term
+SI model coefficient absolute_all_enhanced ln_gdppc0,PASS,4-decimal stored coefficient
+SI model CI absolute_all_enhanced ln_gdppc0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_all_enhanced ln_cropland0,PASS,original model term
+SI model coefficient absolute_all_enhanced ln_cropland0,PASS,4-decimal stored coefficient
+SI model CI absolute_all_enhanced ln_cropland0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_all_enhanced ln_crop_intensity0,PASS,original model term
+SI model coefficient absolute_all_enhanced ln_crop_intensity0,PASS,4-decimal stored coefficient
+SI model CI absolute_all_enhanced ln_crop_intensity0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_all_enhanced cereal_share0_10pp,PASS,original model term
+SI model coefficient absolute_all_enhanced cereal_share0_10pp,PASS,4-decimal stored coefficient
+SI model CI absolute_all_enhanced cereal_share0_10pp,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_all_enhanced vegfruit_share0_10pp,PASS,original model term
+SI model coefficient absolute_all_enhanced vegfruit_share0_10pp,PASS,4-decimal stored coefficient
+SI model CI absolute_all_enhanced vegfruit_share0_10pp,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_officialrich_baseline ln_gdppc0,PASS,original model term
+SI model coefficient absolute_officialrich_baseline ln_gdppc0,PASS,4-decimal stored coefficient
+SI model CI absolute_officialrich_baseline ln_gdppc0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_officialrich_baseline ln_cropland0,PASS,original model term
+SI model coefficient absolute_officialrich_baseline ln_cropland0,PASS,4-decimal stored coefficient
+SI model CI absolute_officialrich_baseline ln_cropland0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_officialrich_baseline ln_crop_intensity0,PASS,original model term
+SI model coefficient absolute_officialrich_baseline ln_crop_intensity0,PASS,4-decimal stored coefficient
+SI model CI absolute_officialrich_baseline ln_crop_intensity0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_officialrich_baseline_same_enhanced_sample ln_gdppc0,PASS,original model term
+SI model coefficient absolute_officialrich_baseline_same_enhanced_sample ln_gdppc0,PASS,4-decimal stored coefficient
+SI model CI absolute_officialrich_baseline_same_enhanced_sample ln_gdppc0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_officialrich_baseline_same_enhanced_sample ln_cropland0,PASS,original model term
+SI model coefficient absolute_officialrich_baseline_same_enhanced_sample ln_cropland0,PASS,4-decimal stored coefficient
+SI model CI absolute_officialrich_baseline_same_enhanced_sample ln_cropland0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_officialrich_baseline_same_enhanced_sample ln_crop_intensity0,PASS,original model term
+SI model coefficient absolute_officialrich_baseline_same_enhanced_sample ln_crop_intensity0,PASS,4-decimal stored coefficient
+SI model CI absolute_officialrich_baseline_same_enhanced_sample ln_crop_intensity0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_officialrich_enhanced ln_gdppc0,PASS,original model term
+SI model coefficient absolute_officialrich_enhanced ln_gdppc0,PASS,4-decimal stored coefficient
+SI model CI absolute_officialrich_enhanced ln_gdppc0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_officialrich_enhanced ln_cropland0,PASS,original model term
+SI model coefficient absolute_officialrich_enhanced ln_cropland0,PASS,4-decimal stored coefficient
+SI model CI absolute_officialrich_enhanced ln_cropland0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_officialrich_enhanced ln_crop_intensity0,PASS,original model term
+SI model coefficient absolute_officialrich_enhanced ln_crop_intensity0,PASS,4-decimal stored coefficient
+SI model CI absolute_officialrich_enhanced ln_crop_intensity0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_officialrich_enhanced cereal_share0_10pp,PASS,original model term
+SI model coefficient absolute_officialrich_enhanced cereal_share0_10pp,PASS,4-decimal stored coefficient
+SI model CI absolute_officialrich_enhanced cereal_share0_10pp,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term absolute_officialrich_enhanced vegfruit_share0_10pp,PASS,original model term
+SI model coefficient absolute_officialrich_enhanced vegfruit_share0_10pp,PASS,4-decimal stored coefficient
+SI model CI absolute_officialrich_enhanced vegfruit_share0_10pp,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_all_common_baseline ln_gdppc0,PASS,original model term
+SI model coefficient class_divergence_all_common_baseline ln_gdppc0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_all_common_baseline ln_gdppc0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_all_common_baseline ln_cropland0,PASS,original model term
+SI model coefficient class_divergence_all_common_baseline ln_cropland0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_all_common_baseline ln_cropland0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_all_common_baseline ln_crop_intensity0,PASS,original model term
+SI model coefficient class_divergence_all_common_baseline ln_crop_intensity0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_all_common_baseline ln_crop_intensity0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_all_common_baseline_same_enhanced_sample ln_gdppc0,PASS,original model term
+SI model coefficient class_divergence_all_common_baseline_same_enhanced_sample ln_gdppc0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_all_common_baseline_same_enhanced_sample ln_gdppc0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_all_common_baseline_same_enhanced_sample ln_cropland0,PASS,original model term
+SI model coefficient class_divergence_all_common_baseline_same_enhanced_sample ln_cropland0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_all_common_baseline_same_enhanced_sample ln_cropland0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_all_common_baseline_same_enhanced_sample ln_crop_intensity0,PASS,original model term
+SI model coefficient class_divergence_all_common_baseline_same_enhanced_sample ln_crop_intensity0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_all_common_baseline_same_enhanced_sample ln_crop_intensity0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_all_common_enhanced ln_gdppc0,PASS,original model term
+SI model coefficient class_divergence_all_common_enhanced ln_gdppc0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_all_common_enhanced ln_gdppc0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_all_common_enhanced ln_cropland0,PASS,original model term
+SI model coefficient class_divergence_all_common_enhanced ln_cropland0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_all_common_enhanced ln_cropland0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_all_common_enhanced ln_crop_intensity0,PASS,original model term
+SI model coefficient class_divergence_all_common_enhanced ln_crop_intensity0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_all_common_enhanced ln_crop_intensity0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_all_common_enhanced cereal_share0_10pp,PASS,original model term
+SI model coefficient class_divergence_all_common_enhanced cereal_share0_10pp,PASS,4-decimal stored coefficient
+SI model CI class_divergence_all_common_enhanced cereal_share0_10pp,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_all_common_enhanced vegfruit_share0_10pp,PASS,original model term
+SI model coefficient class_divergence_all_common_enhanced vegfruit_share0_10pp,PASS,4-decimal stored coefficient
+SI model CI class_divergence_all_common_enhanced vegfruit_share0_10pp,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_officialrich_baseline ln_gdppc0,PASS,original model term
+SI model coefficient class_divergence_officialrich_baseline ln_gdppc0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_officialrich_baseline ln_gdppc0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_officialrich_baseline ln_cropland0,PASS,original model term
+SI model coefficient class_divergence_officialrich_baseline ln_cropland0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_officialrich_baseline ln_cropland0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_officialrich_baseline ln_crop_intensity0,PASS,original model term
+SI model coefficient class_divergence_officialrich_baseline ln_crop_intensity0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_officialrich_baseline ln_crop_intensity0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_officialrich_baseline_same_enhanced_sample ln_gdppc0,PASS,original model term
+SI model coefficient class_divergence_officialrich_baseline_same_enhanced_sample ln_gdppc0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_officialrich_baseline_same_enhanced_sample ln_gdppc0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_officialrich_baseline_same_enhanced_sample ln_cropland0,PASS,original model term
+SI model coefficient class_divergence_officialrich_baseline_same_enhanced_sample ln_cropland0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_officialrich_baseline_same_enhanced_sample ln_cropland0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_officialrich_baseline_same_enhanced_sample ln_crop_intensity0,PASS,original model term
+SI model coefficient class_divergence_officialrich_baseline_same_enhanced_sample ln_crop_intensity0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_officialrich_baseline_same_enhanced_sample ln_crop_intensity0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_officialrich_enhanced ln_gdppc0,PASS,original model term
+SI model coefficient class_divergence_officialrich_enhanced ln_gdppc0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_officialrich_enhanced ln_gdppc0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_officialrich_enhanced ln_cropland0,PASS,original model term
+SI model coefficient class_divergence_officialrich_enhanced ln_cropland0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_officialrich_enhanced ln_cropland0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_officialrich_enhanced ln_crop_intensity0,PASS,original model term
+SI model coefficient class_divergence_officialrich_enhanced ln_crop_intensity0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_officialrich_enhanced ln_crop_intensity0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_officialrich_enhanced cereal_share0_10pp,PASS,original model term
+SI model coefficient class_divergence_officialrich_enhanced cereal_share0_10pp,PASS,4-decimal stored coefficient
+SI model CI class_divergence_officialrich_enhanced cereal_share0_10pp,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_officialrich_enhanced vegfruit_share0_10pp,PASS,original model term
+SI model coefficient class_divergence_officialrich_enhanced vegfruit_share0_10pp,PASS,4-decimal stored coefficient
+SI model CI class_divergence_officialrich_enhanced vegfruit_share0_10pp,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_conditional_absolute_baseline ln_gdppc0,PASS,original model term
+SI model coefficient class_divergence_conditional_absolute_baseline ln_gdppc0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_conditional_absolute_baseline ln_gdppc0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_conditional_absolute_baseline ln_cropland0,PASS,original model term
+SI model coefficient class_divergence_conditional_absolute_baseline ln_cropland0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_conditional_absolute_baseline ln_cropland0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_conditional_absolute_baseline ln_crop_intensity0,PASS,original model term
+SI model coefficient class_divergence_conditional_absolute_baseline ln_crop_intensity0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_conditional_absolute_baseline ln_crop_intensity0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_conditional_absolute_baseline_same_enhanced_sample ln_gdppc0,PASS,original model term
+SI model coefficient class_divergence_conditional_absolute_baseline_same_enhanced_sample ln_gdppc0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_conditional_absolute_baseline_same_enhanced_sample ln_gdppc0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_conditional_absolute_baseline_same_enhanced_sample ln_cropland0,PASS,original model term
+SI model coefficient class_divergence_conditional_absolute_baseline_same_enhanced_sample ln_cropland0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_conditional_absolute_baseline_same_enhanced_sample ln_cropland0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_conditional_absolute_baseline_same_enhanced_sample ln_crop_intensity0,PASS,original model term
+SI model coefficient class_divergence_conditional_absolute_baseline_same_enhanced_sample ln_crop_intensity0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_conditional_absolute_baseline_same_enhanced_sample ln_crop_intensity0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_conditional_absolute_enhanced ln_gdppc0,PASS,original model term
+SI model coefficient class_divergence_conditional_absolute_enhanced ln_gdppc0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_conditional_absolute_enhanced ln_gdppc0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_conditional_absolute_enhanced ln_cropland0,PASS,original model term
+SI model coefficient class_divergence_conditional_absolute_enhanced ln_cropland0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_conditional_absolute_enhanced ln_cropland0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_conditional_absolute_enhanced ln_crop_intensity0,PASS,original model term
+SI model coefficient class_divergence_conditional_absolute_enhanced ln_crop_intensity0,PASS,4-decimal stored coefficient
+SI model CI class_divergence_conditional_absolute_enhanced ln_crop_intensity0,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_conditional_absolute_enhanced cereal_share0_10pp,PASS,original model term
+SI model coefficient class_divergence_conditional_absolute_enhanced cereal_share0_10pp,PASS,4-decimal stored coefficient
+SI model CI class_divergence_conditional_absolute_enhanced cereal_share0_10pp,PASS,"original cluster-t endpoints,rounded4 decimals"
+SI model term class_divergence_conditional_absolute_enhanced vegfruit_share0_10pp,PASS,original model term
+SI model coefficient class_divergence_conditional_absolute_enhanced vegfruit_share0_10pp,PASS,4-decimal stored coefficient
+SI model CI class_divergence_conditional_absolute_enhanced vegfruit_share0_10pp,PASS,"original cluster-t endpoints,rounded4 decimals"
+strict quality39/17,PASS,39 comparisons;17 events
+S14 Later group begins,PASS,39 comparisons/17 events
+S14 Region,PASS,39 comparisons/17 events
+S15 five strata,PASS,exact original quality-tier table

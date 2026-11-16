@@ -1,0 +1,52 @@
+﻿stratum,level,event,small_sample_descriptive_only,n,countries,events,estimate,ci_low,ci_high
+region,East Asia & Pacific,any_increase,True,27,15,13.0,0.48148148148148145,,
+region,East Asia & Pacific,any_gt10,True,26,15,10.0,0.38461538461538464,,
+region,East Asia & Pacific,substantial_gt1pctP0,True,27,15,10.0,0.37037037037037035,,
+region,Europe & Central Asia,any_increase,False,52,32,29.0,0.5576923076923077,0.4230769230769231,0.690487012987013
+region,Europe & Central Asia,any_gt10,False,51,31,18.0,0.35294117647058826,0.23633689839572192,0.4716981132075472
+region,Europe & Central Asia,substantial_gt1pctP0,False,52,32,20.0,0.38461538461538464,0.25,0.5263397129186603
+region,Latin America & Caribbean,any_increase,True,35,18,21.0,0.6,,
+region,Latin America & Caribbean,any_gt10,True,35,18,14.0,0.4,,
+region,Latin America & Caribbean,substantial_gt1pctP0,True,35,18,16.0,0.45714285714285713,,
+region,"Middle East, North Africa, Afghanistan & Pakistan",any_increase,True,23,13,13.0,0.5652173913043478,,
+region,"Middle East, North Africa, Afghanistan & Pakistan",any_gt10,True,22,12,10.0,0.45454545454545453,,
+region,"Middle East, North Africa, Afghanistan & Pakistan",substantial_gt1pctP0,True,23,13,13.0,0.5652173913043478,,
+region,North America,any_increase,True,2,1,1.0,0.5,,
+region,North America,any_gt10,True,2,1,1.0,0.5,,
+region,North America,substantial_gt1pctP0,True,2,1,1.0,0.5,,
+region,South Asia,any_increase,True,6,2,4.0,0.6666666666666666,,
+region,South Asia,any_gt10,True,6,2,2.0,0.3333333333333333,,
+region,South Asia,substantial_gt1pctP0,True,6,2,2.0,0.3333333333333333,,
+region,Sub-Saharan Africa,any_increase,False,44,25,21.0,0.4772727272727273,0.3283389089037571,0.6388888888888888
+region,Sub-Saharan Africa,any_gt10,False,42,25,13.0,0.30952380952380953,0.18181818181818182,0.4594594594594595
+region,Sub-Saharan Africa,substantial_gt1pctP0,False,44,25,18.0,0.4090909090909091,0.26666666666666666,0.5625
+income,High income,any_increase,False,63,38,38.0,0.6031746031746031,0.47169137466307276,0.7285774818401937
+income,High income,any_gt10,False,61,36,24.0,0.39344262295081966,0.27450189753320686,0.5072463768115942
+income,High income,substantial_gt1pctP0,False,63,38,28.0,0.4444444444444444,0.3,0.5833333333333334
+income,Low income,any_increase,True,18,10,11.0,0.6111111111111112,,
+income,Low income,any_gt10,True,16,10,6.0,0.375,,
+income,Low income,substantial_gt1pctP0,True,18,10,8.0,0.4444444444444444,,
+income,Lower middle income,any_increase,False,45,26,20.0,0.4444444444444444,0.30952380952380953,0.5813953488372093
+income,Lower middle income,any_gt10,False,44,26,11.0,0.25,0.13953488372093023,0.38461538461538464
+income,Lower middle income,substantial_gt1pctP0,False,45,26,17.0,0.37777777777777777,0.23809523809523808,0.525
+income,Upper middle income,any_increase,False,63,32,33.0,0.5238095238095238,0.3939393939393939,0.6491228070175439
+income,Upper middle income,any_gt10,False,63,32,27.0,0.42857142857142855,0.30154761904761906,0.5625
+income,Upper middle income,substantial_gt1pctP0,False,63,32,27.0,0.42857142857142855,0.296875,0.5606060606060606
+period_start,1995,any_increase,False,30,30,18.0,0.6,0.43333333333333335,0.7666666666666667
+period_start,1995,any_gt10,False,29,29,13.0,0.4482758620689655,0.27586206896551724,0.6206896551724138
+period_start,1995,substantial_gt1pctP0,False,30,30,14.0,0.4666666666666667,0.3,0.6333333333333333
+period_start,2000,any_increase,False,39,39,16.0,0.41025641025641024,0.2564102564102564,0.5641025641025641
+period_start,2000,any_gt10,False,38,38,10.0,0.2631578947368421,0.13157894736842105,0.39473684210526316
+period_start,2000,substantial_gt1pctP0,False,39,39,11.0,0.28205128205128205,0.15384615384615385,0.4358974358974359
+period_start,2005,any_increase,False,26,26,16.0,0.6153846153846154,0.4230769230769231,0.8076923076923077
+period_start,2005,any_gt10,False,26,26,13.0,0.5,0.3076923076923077,0.6923076923076923
+period_start,2005,substantial_gt1pctP0,False,26,26,16.0,0.6153846153846154,0.4230769230769231,0.8076923076923077
+period_start,2010,any_increase,False,28,28,16.0,0.5714285714285714,0.39285714285714285,0.75
+period_start,2010,any_gt10,False,27,27,14.0,0.5185185185185185,0.3333333333333333,0.7037037037037037
+period_start,2010,substantial_gt1pctP0,False,28,28,15.0,0.5357142857142857,0.35714285714285715,0.7142857142857143
+period_start,2015,any_increase,False,38,38,23.0,0.6052631578947368,0.4473684210526316,0.7631578947368421
+period_start,2015,any_gt10,False,36,36,12.0,0.3333333333333333,0.19444444444444445,0.5
+period_start,2015,substantial_gt1pctP0,False,38,38,15.0,0.39473684210526316,0.23684210526315788,0.5526315789473685
+period_start,2020,any_increase,False,28,28,13.0,0.4642857142857143,0.2857142857142857,0.6428571428571429
+period_start,2020,any_gt10,False,28,28,6.0,0.21428571428571427,0.07142857142857142,0.39285714285714285
+period_start,2020,substantial_gt1pctP0,False,28,28,9.0,0.32142857142857145,0.14285714285714285,0.5

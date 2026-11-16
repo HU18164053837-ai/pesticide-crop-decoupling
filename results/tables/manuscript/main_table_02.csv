@@ -1,0 +1,8 @@
+﻿Condition,Events / n,Rate (%),Eligible comparison
+"A. Next comparison is absolute, by current state","A. Next comparison is absolute, by current state","A. Next comparison is absolute, by current state","A. Next comparison is absolute, by current state"
+Absolute decoupling,55/171,32.2,Next state determined
+Other state,86/456,18.9,Next state determined
+Relative decoupling,16/109,14.7,Next state determined
+"B. A major-class increment >1% of baseline total mass, conditional on total decline","B. A major-class increment >1% of baseline total mass, conditional on total decline","B. A major-class increment >1% of baseline total mass, conditional on total decline","B. A major-class increment >1% of baseline total mass, conditional on total decline"
+Absolute (crop output grows),80/189,42.3,All major classes supported
+"Total decline, output not growing",35/122,28.7,All major classes supported

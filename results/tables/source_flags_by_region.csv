@@ -1,0 +1,29 @@
+﻿region,p_kg_flag,country_years,within_group_share
+East Asia & Pacific,A,254,0.22183406113537119
+East Asia & Pacific,E,716,0.6253275109170305
+East Asia & Pacific,I,153,0.13362445414847163
+East Asia & Pacific,X,22,0.01921397379912664
+Europe & Central Asia,A,810,0.4891304347826087
+Europe & Central Asia,E,321,0.19384057971014493
+Europe & Central Asia,I,220,0.13285024154589373
+Europe & Central Asia,X,305,0.18417874396135267
+Latin America & Caribbean ,A,317,0.24921383647798742
+Latin America & Caribbean ,E,682,0.5361635220125787
+Latin America & Caribbean ,I,222,0.17452830188679244
+Latin America & Caribbean ,X,51,0.04009433962264151
+"Middle East, North Africa, Afghanistan & Pakistan",A,134,0.18231292517006803
+"Middle East, North Africa, Afghanistan & Pakistan",E,329,0.44761904761904764
+"Middle East, North Africa, Afghanistan & Pakistan",I,239,0.3251700680272109
+"Middle East, North Africa, Afghanistan & Pakistan",X,33,0.044897959183673466
+North America,A,43,0.4095238095238095
+North America,E,37,0.3523809523809524
+North America,I,11,0.10476190476190476
+North America,X,14,0.13333333333333333
+Not classified in WDI,E,455,1.0
+South Asia,A,91,0.43333333333333335
+South Asia,E,78,0.37142857142857144
+South Asia,I,41,0.19523809523809524
+Sub-Saharan Africa ,A,279,0.1725417439703154
+Sub-Saharan Africa ,E,945,0.5844155844155844
+Sub-Saharan Africa ,I,376,0.23252937538651824
+Sub-Saharan Africa ,X,17,0.010513296227581941

@@ -1,0 +1,27 @@
+﻿table,source_version,source_docx_sha256,table_index,rows,columns
+results/tables/manuscript/main_table_01.csv,EDS v1.4,c8131a3085e01a5ba53617bba563f54e7afb0fda45f9a82f137fff3189fa10ca,1,10,3
+results/tables/manuscript/main_table_02.csv,EDS v1.4,c8131a3085e01a5ba53617bba563f54e7afb0fda45f9a82f137fff3189fa10ca,2,8,4
+results/tables/manuscript/supplement_table_01.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,1,7,2
+results/tables/manuscript/supplement_table_02.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,2,5,3
+results/tables/manuscript/supplement_table_03.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,3,5,3
+results/tables/manuscript/supplement_table_04.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,4,6,4
+results/tables/manuscript/supplement_table_05.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,5,3,4
+results/tables/manuscript/supplement_table_06.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,6,4,5
+results/tables/manuscript/supplement_table_07.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,7,4,5
+results/tables/manuscript/supplement_table_08.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,8,6,5
+results/tables/manuscript/supplement_table_09.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,9,4,5
+results/tables/manuscript/supplement_table_10.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,10,4,5
+results/tables/manuscript/supplement_table_11.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,11,6,5
+results/tables/manuscript/supplement_table_12.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,12,4,5
+results/tables/manuscript/supplement_table_13.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,13,4,5
+results/tables/manuscript/supplement_table_14.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,14,6,5
+results/tables/manuscript/supplement_table_15.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,15,4,5
+results/tables/manuscript/supplement_table_16.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,16,4,5
+results/tables/manuscript/supplement_table_17.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,17,6,5
+results/tables/manuscript/supplement_table_18.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,18,4,5
+results/tables/manuscript/supplement_table_19.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,19,4,5
+results/tables/manuscript/supplement_table_20.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,20,6,5
+results/tables/manuscript/supplement_table_21.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,21,3,3
+results/tables/manuscript/supplement_table_22.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,22,4,3
+results/tables/manuscript/supplement_table_23.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,23,9,4
+results/tables/manuscript/supplement_table_24.csv,EDS v1.4,16bfbad94744c5bd2bd00e5c85edf43452152f5511dd293eeef85dbc144cfbeb,24,8,4

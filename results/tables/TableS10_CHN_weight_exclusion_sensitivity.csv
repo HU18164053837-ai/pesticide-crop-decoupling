@@ -1,0 +1,5 @@
+﻿weight,sample,n,countries,events,weighted_event_numerator,weight_denominator,weighted_incidence,excluded_country,removed_weight_share_of_full_sample,new_CI
+cy0,all_common_absolute,189,106,80,554880964900.0,3549889696216.6665,0.15630935391918527,none,0.0,not estimated; full-sample CI remains frozen Phase2 only
+cy0,exclude_CHN,187,105,80,554880964900.0,1780848057216.6667,0.31158242987177565,CHN,0.4983370725252041,not estimated; full-sample CI remains frozen Phase2 only
+cp0,all_common_absolute,189,106,80,1152606516.6666667,3681597600.0,0.3130723783247432,none,0.0,not estimated; full-sample CI remains frozen Phase2 only
+cp0,exclude_CHN,187,105,80,1152606516.6666667,3038440400.0,0.3793414926508569,CHN,0.17469513778474866,not estimated; full-sample CI remains frozen Phase2 only

@@ -1,0 +1,14 @@
+﻿Item Code,Item,Element Code,Element,Unit,domain
+1357,Pesticides (total),5157,Agricultural Use,t,RP
+1309,Insecticides,5157,Agricultural Use,t,RP
+1320,Herbicides,5157,Agricultural Use,t,RP
+1331,Fungicides and Bactericides,5157,Agricultural Use,t,RP
+1341,Plant Growth Regulators,5157,Agricultural Use,t,RP
+1345,Rodenticides,5157,Agricultural Use,t,RP
+1355,Other Pesticides nes,5157,Agricultural Use,t,RP
+1717,"Cereals, primary",58,Gross Production Value (constant 2014-2016 thousand US$),1000 USD,QV
+2041,Crops,58,Gross Production Value (constant 2014-2016 thousand US$),1000 USD,QV
+1739,Vegetables and Fruit Primary,58,Gross Production Value (constant 2014-2016 thousand US$),1000 USD,QV
+6621,Arable land,5110,Area,1000 ha,RL
+6650,Permanent crops,5110,Area,1000 ha,RL
+2041,Crops,432,Gross Production Index Number (2014-2016 = 100),,QI

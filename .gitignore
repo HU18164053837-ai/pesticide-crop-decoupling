@@ -1,0 +1,12 @@
+# Generated replication outputs and local environments
+.reproduction/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.env
+*.pem
+*.key
+*.zip

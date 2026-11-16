@@ -1,0 +1,285 @@
+﻿fao_area_code,m49,fao_area,iso3,status
+5100,002,Africa,,aggregate
+3,008,Albania,ALB,matched_iso
+4,012,Algeria,DZA,matched_iso
+5200,019,Americas,,aggregate
+6,020,Andorra,AND,matched_iso
+7,024,Angola,AGO,matched_iso
+258,660,Anguilla,AIA,matched_iso
+8,028,Antigua and Barbuda,ATG,matched_iso
+9,032,Argentina,ARG,matched_iso
+1,051,Armenia,ARM,matched_iso
+22,533,Aruba,ABW,matched_iso
+187,654,Ascension; Saint Helena and Tristan da Cunha,SHN,matched_iso
+5300,142,Asia,,aggregate
+10,036,Australia,AUS,matched_iso
+5501,053,Australia and New Zealand,,aggregate
+11,040,Austria,AUT,matched_iso
+52,031,Azerbaijan,AZE,matched_iso
+12,044,Bahamas,BHS,matched_iso
+13,048,Bahrain,BHR,matched_iso
+16,050,Bangladesh,BGD,matched_iso
+14,052,Barbados,BRB,matched_iso
+57,112,Belarus,BLR,matched_iso
+255,056,Belgium,BEL,matched_iso
+15,058,Belgium-Luxembourg,,historical_or_non_iso
+23,084,Belize,BLZ,matched_iso
+53,204,Benin,BEN,matched_iso
+17,060,Bermuda,BMU,matched_iso
+18,064,Bhutan,BTN,matched_iso
+19,068,Bolivia (Plurinational State of),BOL,matched_iso
+80,070,Bosnia and Herzegovina,BIH,matched_iso
+20,072,Botswana,BWA,matched_iso
+21,076,Brazil,BRA,matched_iso
+239,092,British Virgin Islands,VGB,matched_iso
+26,096,Brunei Darussalam,BRN,matched_iso
+27,100,Bulgaria,BGR,matched_iso
+233,854,Burkina Faso,BFA,matched_iso
+29,108,Burundi,BDI,matched_iso
+35,132,Cabo Verde,CPV,matched_iso
+115,116,Cambodia,KHM,matched_iso
+32,120,Cameroon,CMR,matched_iso
+33,124,Canada,CAN,matched_iso
+5206,029,Caribbean,,aggregate
+36,136,Cayman Islands,CYM,matched_iso
+37,140,Central African Republic,CAF,matched_iso
+5204,013,Central America,,aggregate
+5301,143,Central Asia,,aggregate
+39,148,Chad,TCD,matched_iso
+40,152,Chile,CHL,matched_iso
+351,159,China,,China_aggregate_excluded
+96,344,China; Hong Kong SAR,HKG,matched_iso
+128,446,China; Macao SAR,MAC,matched_iso
+41,156,China; mainland,CHN,matched_iso
+214,158,China; Taiwan Province of,TWN,matched_iso
+44,170,Colombia,COL,matched_iso
+45,174,Comoros,COM,matched_iso
+46,178,Congo,COG,matched_iso
+47,184,Cook Islands,COK,matched_iso
+48,188,Costa Rica,CRI,matched_iso
+107,384,Côte d'Ivoire,CIV,matched_iso
+98,191,Croatia,HRV,matched_iso
+49,192,Cuba,CUB,matched_iso
+50,196,Cyprus,CYP,matched_iso
+167,203,Czechia,CZE,matched_iso
+51,200,Czechoslovakia,,historical_or_non_iso
+116,408,Democratic People's Republic of Korea,PRK,matched_iso
+250,180,Democratic Republic of the Congo,COD,matched_iso
+54,208,Denmark,DNK,matched_iso
+72,262,Djibouti,DJI,matched_iso
+56,214,Dominican Republic,DOM,matched_iso
+5101,014,Eastern Africa,,aggregate
+5302,030,Eastern Asia,,aggregate
+5401,151,Eastern Europe,,aggregate
+58,218,Ecuador,ECU,matched_iso
+59,818,Egypt,EGY,matched_iso
+60,222,El Salvador,SLV,matched_iso
+61,226,Equatorial Guinea,GNQ,matched_iso
+178,232,Eritrea,ERI,matched_iso
+63,233,Estonia,EST,matched_iso
+209,748,Eswatini,SWZ,matched_iso
+238,231,Ethiopia,ETH,matched_iso
+62,230,Ethiopia PDR,,historical_or_non_iso
+5400,150,Europe,,aggregate
+5707,097,European Union (27),,aggregate
+65,238,Falkland Islands (Malvinas),FLK,matched_iso
+64,234,Faroe Islands,FRO,matched_iso
+66,242,Fiji,FJI,matched_iso
+67,246,Finland,FIN,matched_iso
+68,250,France,FRA,matched_iso
+70,258,French Polynesia,PYF,matched_iso
+74,266,Gabon,GAB,matched_iso
+75,270,Gambia,GMB,matched_iso
+73,268,Georgia,GEO,matched_iso
+79,276,Germany,DEU,matched_iso
+81,288,Ghana,GHA,matched_iso
+84,300,Greece,GRC,matched_iso
+85,304,Greenland,GRL,matched_iso
+86,308,Grenada,GRD,matched_iso
+88,316,Guam,GUM,matched_iso
+89,320,Guatemala,GTM,matched_iso
+90,324,Guinea,GIN,matched_iso
+175,624,Guinea-Bissau,GNB,matched_iso
+91,328,Guyana,GUY,matched_iso
+93,332,Haiti,HTI,matched_iso
+94,336,Holy See,VAT,matched_iso
+95,340,Honduras,HND,matched_iso
+97,348,Hungary,HUN,matched_iso
+99,352,Iceland,ISL,matched_iso
+100,356,India,IND,matched_iso
+101,360,Indonesia,IDN,matched_iso
+102,364,Iran (Islamic Republic of),IRN,matched_iso
+103,368,Iraq,IRQ,matched_iso
+104,372,Ireland,IRL,matched_iso
+105,376,Israel,ISR,matched_iso
+106,380,Italy,ITA,matched_iso
+109,388,Jamaica,JAM,matched_iso
+110,392,Japan,JPN,matched_iso
+112,400,Jordan,JOR,matched_iso
+108,398,Kazakhstan,KAZ,matched_iso
+114,404,Kenya,KEN,matched_iso
+83,296,Kiribati,KIR,matched_iso
+118,414,Kuwait,KWT,matched_iso
+113,417,Kyrgyzstan,KGZ,matched_iso
+5802,432,Land Locked Developing Countries (LLDCs),,aggregate
+120,418,Lao People's Democratic Republic,LAO,matched_iso
+119,428,Latvia,LVA,matched_iso
+5801,199,Least Developed Countries (LDCs),,aggregate
+121,422,Lebanon,LBN,matched_iso
+122,426,Lesotho,LSO,matched_iso
+123,430,Liberia,LBR,matched_iso
+124,434,Libya,LBY,matched_iso
+126,440,Lithuania,LTU,matched_iso
+5815,901,Low Income Food Deficit Countries (LIFDCs),,aggregate
+256,442,Luxembourg,LUX,matched_iso
+129,450,Madagascar,MDG,matched_iso
+130,454,Malawi,MWI,matched_iso
+131,458,Malaysia,MYS,matched_iso
+132,462,Maldives,MDV,matched_iso
+133,466,Mali,MLI,matched_iso
+134,470,Malta,MLT,matched_iso
+136,478,Mauritania,MRT,matched_iso
+137,480,Mauritius,MUS,matched_iso
+270,175,Mayotte,MYT,matched_iso
+5502,054,Melanesia,,aggregate
+138,484,Mexico,MEX,matched_iso
+5503,057,Micronesia,,aggregate
+145,583,Micronesia (Federated States of),FSM,matched_iso
+5102,017,Middle Africa,,aggregate
+141,496,Mongolia,MNG,matched_iso
+273,499,Montenegro,MNE,matched_iso
+142,500,Montserrat,MSR,matched_iso
+143,504,Morocco,MAR,matched_iso
+144,508,Mozambique,MOZ,matched_iso
+28,104,Myanmar,MMR,matched_iso
+147,516,Namibia,NAM,matched_iso
+148,520,Naoero,NRU,matched_iso
+149,524,Nepal,NPL,matched_iso
+5817,902,Net Food Importing Developing Countries (NFIDCs),,aggregate
+150,528,Netherlands (Kingdom of the),NLD,matched_iso
+151,530,Netherlands Antilles (former),,historical_or_non_iso
+153,540,New Caledonia,NCL,matched_iso
+156,554,New Zealand,NZL,matched_iso
+157,558,Nicaragua,NIC,matched_iso
+158,562,Niger,NER,matched_iso
+159,566,Nigeria,NGA,matched_iso
+160,570,Niue,NIU,matched_iso
+161,574,Norfolk Island,NFK,matched_iso
+154,807,North Macedonia,MKD,matched_iso
+5103,015,Northern Africa,,aggregate
+5203,021,Northern America,,aggregate
+5402,154,Northern Europe,,aggregate
+163,580,Northern Mariana Islands,MNP,matched_iso
+162,578,Norway,NOR,matched_iso
+5500,009,Oceania,,aggregate
+221,512,Oman,OMN,matched_iso
+164,582,Pacific Islands Trust Territory,,historical_or_non_iso
+165,586,Pakistan,PAK,matched_iso
+180,585,Palau,PLW,matched_iso
+299,275,Palestine,PSE,matched_iso
+166,591,Panama,PAN,matched_iso
+168,598,Papua New Guinea,PNG,matched_iso
+169,600,Paraguay,PRY,matched_iso
+170,604,Peru,PER,matched_iso
+171,608,Philippines,PHL,matched_iso
+172,612,Pitcairn,PCN,matched_iso
+173,616,Poland,POL,matched_iso
+5504,061,Polynesia,,aggregate
+174,620,Portugal,PRT,matched_iso
+179,634,Qatar,QAT,matched_iso
+117,410,Republic of Korea,KOR,matched_iso
+146,498,Republic of Moldova,MDA,matched_iso
+183,642,Romania,ROU,matched_iso
+185,643,Russian Federation,RUS,matched_iso
+184,646,Rwanda,RWA,matched_iso
+188,659,Saint Kitts and Nevis,KNA,matched_iso
+189,662,Saint Lucia,LCA,matched_iso
+191,670,Saint Vincent and the Grenadines,VCT,matched_iso
+244,882,Samoa,WSM,matched_iso
+193,678,Sao Tome and Principe,STP,matched_iso
+194,682,Saudi Arabia,SAU,matched_iso
+195,686,Senegal,SEN,matched_iso
+272,688,Serbia,SRB,matched_iso
+186,891,Serbia and Montenegro,,historical_or_non_iso
+196,690,Seychelles,SYC,matched_iso
+197,694,Sierra Leone,SLE,matched_iso
+280,534,Sint Maarten (Dutch part),SXM,matched_iso
+199,703,Slovakia,SVK,matched_iso
+198,705,Slovenia,SVN,matched_iso
+5803,722,Small Island Developing States (SIDS),,aggregate
+25,090,Solomon Islands,SLB,matched_iso
+201,706,Somalia,SOM,matched_iso
+202,710,South Africa,ZAF,matched_iso
+5207,005,South America,,aggregate
+277,728,South Sudan,SSD,matched_iso
+5304,035,South-eastern Asia,,aggregate
+5104,018,Southern Africa,,aggregate
+5303,034,Southern Asia,,aggregate
+5403,039,Southern Europe,,aggregate
+203,724,Spain,ESP,matched_iso
+38,144,Sri Lanka,LKA,matched_iso
+276,729,Sudan,SDN,matched_iso
+206,736,Sudan (former),,historical_or_non_iso
+207,740,Suriname,SUR,matched_iso
+210,752,Sweden,SWE,matched_iso
+211,756,Switzerland,CHE,matched_iso
+212,760,Syrian Arab Republic,SYR,matched_iso
+208,762,Tajikistan,TJK,matched_iso
+216,764,Thailand,THA,matched_iso
+176,626,Timor-Leste,TLS,matched_iso
+217,768,Togo,TGO,matched_iso
+218,772,Tokelau,TKL,matched_iso
+219,776,Tonga,TON,matched_iso
+220,780,Trinidad and Tobago,TTO,matched_iso
+222,788,Tunisia,TUN,matched_iso
+223,792,Türkiye,TUR,matched_iso
+213,795,Turkmenistan,TKM,matched_iso
+224,796,Turks and Caicos Islands,TCA,matched_iso
+227,798,Tuvalu,TUV,matched_iso
+226,800,Uganda,UGA,matched_iso
+230,804,Ukraine,UKR,matched_iso
+229,826,United Kingdom of Great Britain and Northern Ireland,GBR,matched_iso
+215,834,United Republic of Tanzania,TZA,matched_iso
+231,840,United States of America,USA,matched_iso
+234,858,Uruguay,URY,matched_iso
+228,810,USSR,,historical_or_non_iso
+155,548,Vanuatu,VUT,matched_iso
+236,862,Venezuela (Bolivarian Republic of),VEN,matched_iso
+237,704,Viet Nam,VNM,matched_iso
+243,876,Wallis and Futuna Islands,WLF,matched_iso
+5105,011,Western Africa,,aggregate
+5305,145,Western Asia,,aggregate
+5404,155,Western Europe,,aggregate
+5000,001,World,,aggregate
+249,887,Yemen,YEM,matched_iso
+248,890,Yugoslav SFR,,historical_or_non_iso
+251,894,Zambia,ZMB,matched_iso
+181,716,Zimbabwe,ZWE,matched_iso
+2,004,Afghanistan,AFG,matched_iso
+55,212,Dominica,DMA,matched_iso
+69,254,French Guiana,GUF,matched_iso
+87,312,Guadeloupe,GLP,matched_iso
+127,584,Marshall Islands,MHL,matched_iso
+135,474,Martinique,MTQ,matched_iso
+177,630,Puerto Rico,PRI,matched_iso
+182,638,Réunion,REU,matched_iso
+200,702,Singapore,SGP,matched_iso
+225,784,United Arab Emirates,ARE,matched_iso
+235,860,Uzbekistan,UZB,matched_iso
+5,016,American Samoa,ASM,matched_iso
+278,535,Bonaire; Sint Eustatius and Saba,BES,matched_iso
+259,830,Channel Islands,,historical_or_non_iso
+279,531,Curaçao,CUW,matched_iso
+82,292,Gibraltar,GIB,matched_iso
+264,833,Isle of Man,IMN,matched_iso
+5205,419,Latin America and the Caribbean,,aggregate
+125,438,Liechtenstein,LIE,matched_iso
+140,492,Monaco,MCO,matched_iso
+5873,198,OECD,,aggregate
+282,652,Saint Barthélemy,BLM,matched_iso
+281,663,Saint Martin (French part),MAF,matched_iso
+190,666,Saint Pierre and Miquelon,SPM,matched_iso
+192,674,San Marino,SMR,matched_iso
+420,202,Sub-Saharan Africa,,historical_or_non_iso
+240,850,United States Virgin Islands,VIR,matched_iso
+205,732,Western Sahara,ESH,matched_iso

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Anonymous review copy: author metadata withheld. Cite FAO and World Bank data sources as specified in data/README.md."
+type: dataset
+title: "Beyond aggregate pesticide decoupling: state recurrence and class-specific input changes across 157 countries"
+authors:
+  - name: "Anonymous research contributors"
+version: 1.0.0
+date-released: 2026-11-16
+abstract: "Frozen observations, analytic code and results for descriptive pesticide–crop output decoupling and class-specific input changes,1990–2024."
+keywords:
+  - pesticide use
+  - crop output
+  - decoupling
+  - reproducibility

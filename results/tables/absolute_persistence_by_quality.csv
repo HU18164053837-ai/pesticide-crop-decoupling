@@ -1,0 +1,11 @@
+﻿sample,run_length,eligible_countries,countries_with_run,rate
+all,2,157,40,0.25477707006369427
+all,3,155,10,0.06451612903225806
+officialrich,2,53,17,0.32075471698113206
+officialrich,3,53,5,0.09433962264150944
+no_known_break,2,156,36,0.23076923076923078
+no_known_break,3,149,9,0.06040268456375839
+officialrich_no_known_break,2,52,15,0.28846153846153844
+officialrich_no_known_break,3,49,4,0.08163265306122448
+period_A_majority_no_known_break,2,50,6,0.12
+period_A_majority_no_known_break,3,39,0,0.0
