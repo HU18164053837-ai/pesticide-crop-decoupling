@@ -1,0 +1,5 @@
+﻿support,frozen_state,original_n,land_supported_n,excluded_n,retained_state_n,reclassified_n,countries,missing_land_years
+PYA,absolute,200,199,1,199,0,108,10
+PYA,relative,133,131,2,131,0,78,20
+PYA,coupled_or_other,560,557,3,557,0,149,30
+PYAHIF,absolute,189,188,1,188,0,105,10

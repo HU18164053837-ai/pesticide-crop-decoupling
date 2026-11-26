@@ -1,0 +1,22 @@
+{
+  "seed": 20261126,
+  "bootstrap_replicates": 4000,
+  "minimum_clusters_for_interval": 20,
+  "primary_support": "same observed P,Y,positive cropland years;at least3 per5yr group;ratio of means",
+  "original_893": 893,
+  "original_200": 200,
+  "original_189": 189,
+  "area_complete_893": 887,
+  "area_complete_frozen_absolute": 199,
+  "same_year_sign_retaining_absolute": 199,
+  "joint_events": 18,
+  "event_countries": 17,
+  "class_support": {
+    "original_n": 189,
+    "land_supported_n": 188,
+    "same_year_absolute_n": 188,
+    "state_changes": 0
+  },
+  "new_models": 0,
+  "threshold_search": false
+}

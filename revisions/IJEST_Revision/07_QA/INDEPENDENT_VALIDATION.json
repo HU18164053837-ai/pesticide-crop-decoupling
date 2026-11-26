@@ -1,0 +1,47 @@
+{
+  "checks": 26161,
+  "passed": true,
+  "raw_land_unit": "1000ha x1000",
+  "independent_decimal_original_rows": true,
+  "events": 18,
+  "denominator": 199,
+  "clusters": 108,
+  "new_ci": [
+    0.05188679245283019,
+    0.13333333333333333
+  ],
+  "minimum_positive_gI": 0.002764991643545045,
+  "median_positive_gI": 0.0388813162859768,
+  "excluded": [
+    {
+      "id": "ISL_1990_1995_w5",
+      "iso3": "ISL",
+      "frozen_state": "relative"
+    },
+    {
+      "id": "ISL_1995_2000_w5",
+      "iso3": "ISL",
+      "frozen_state": "coupled_or_other"
+    },
+    {
+      "id": "ISL_2000_2005_w5",
+      "iso3": "ISL",
+      "frozen_state": "relative"
+    },
+    {
+      "id": "ISL_2005_2010_w5",
+      "iso3": "ISL",
+      "frozen_state": "coupled_or_other"
+    },
+    {
+      "id": "ISL_2010_2015_w5",
+      "iso3": "ISL",
+      "frozen_state": "absolute"
+    },
+    {
+      "id": "ISL_2015_2020_w5",
+      "iso3": "ISL",
+      "frozen_state": "coupled_or_other"
+    }
+  ]
+}
